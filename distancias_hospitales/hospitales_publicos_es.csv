@@ -1,368 +1,368 @@
 cod_centro,nombre_centro,lat,lon,municipio,cod_mun,provincia,ccaa,tipo_servicio,concierto,camas,tipo
-500074,Hospital Nuestra Señora de Gracia,41652679180799920,-0.8869117537780002,Zaragoza,50297,Zaragoza,Aragón,Hospitales Generales,Sin concierto,145,hospitales
-500055,Hospital Royo Villanova,4169343928135535,-0.8610028748433769,Zaragoza,50297,Zaragoza,Aragón,Hospitales Generales,Sin concierto,256,hospitales
-500114,Hospital San Juan de Dios,416349923343035,-0.8879763038094458,Zaragoza,50297,Zaragoza,Aragón,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),188,hospitales
-500021,Hospital Universitario Miguel Servet,41634947025930176,-0.8999279420946311,Zaragoza,50297,Zaragoza,Aragón,Hospitales Generales,Sin concierto,1198,hospitales
-500068,Centro de Rehabilitacion Psicosocial Nuestra Señora Del Pilar,4164693654222808,-0.9089887018609039,Zaragoza,50297,Zaragoza,Aragón,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,200,hospitales
-500200,Centro Sanitario Cinco Villas,4212629578880164,-1.1300587881474546,Ejea De Los Caballeros,50095,Zaragoza,Aragón,Otros Centros Con Internamiento,Sin concierto,32,hospitales
-500188,Unidad Rehabilitadora de Media Estancia Profesor Rey Ardid,41689288199762320,-0.8897007263892905,Zaragoza,50297,Zaragoza,Aragón,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Red de utilización pública (RUP),39,hospitales
-500140,Hospital General de La Defensa En Zaragoza,41630385336954176,-0.9039269624884078,Zaragoza,50297,Zaragoza,Aragón,Hospitales Generales,Concierto sustitutorio,200,hospitales
-500016,Hospital Clinico Universitario Lozano Blesa,41643751958663536,-0.9032876924212212,Zaragoza,50297,Zaragoza,Aragón,Hospitales Generales,Sin concierto,808,hospitales
-500153,Hospital Ernest Lluch Martin,4133639093917312,-1.6461994298767957,Calatayud,50067,Zaragoza,Aragón,Hospitales Generales,Sin concierto,122,hospitales
-490070,Complejo Asistencial de Zamora,41514965001904016,-5.731322655160312,Zamora,49275,Zamora,Castilla y León,Hospitales Generales,DC,540,hospitales
-470029,Hospital Clinico Universitario de Valladolid,4165630684353768,-4.71963062321253,Valladolid,47186,Valladolid,Castilla y León,Hospitales Generales,Sin concierto,777,hospitales
-470014,Hospital Universitario Rio Hortega,41629913679793296,-4.713252365821511,Valladolid,47186,Valladolid,Castilla y León,Hospitales Generales,Sin concierto,596,hospitales
-470091,Hospital Medina Del Campo,4129596626834732,-4.9114157650915775,Medina Del Campo,47085,Valladolid,Castilla y León,Hospitales Generales,Sin concierto,119,hospitales
-460266,Hospital de Sagunto,3967516785778727,-0.23046123381727357,Sagunto/Sagunt,46220,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,252,hospitales
-460044,Hospital Clinico Universitario de Valencia,39479047702896570,-0.36207328612649514,València,46250,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,582,hospitales
-460018,Hospital Universitario Y Politecnico La Fe,3944410116132815,-0.3759487787629363,València,46250,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,1000,hospitales
-460109,Fundacion Instituto Valenciano de Oncologia,39482702564627464,-0.3905052679621388,València,46250,Valencia,Comunidad Valenciana,Hospitales Especializados,Concierto sustitutorio,117,hospitales
-460369,Hospital Pare Jofre,394536216973314,-0.39485198677353917,València,46250,Valencia,Comunidad Valenciana,Hospitales De Media Y Larga Estancia,Sin concierto,125,hospitales
-460023,Hospital Universitario Dr. Peset Aleixandre,3945384848291637,-0.39441546454757587,València,46250,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,539,hospitales
-460060,Consorcio Hospital General Universitario de Valencia,39469187531524,-0.4084572615980724,València,46250,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,546,hospitales
-460039,Hospital Arnau de Vilanova,39490956316282760,-0.4037819914415437,València,46250,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,282,hospitales
-460381,Hospital de Cronicos de Mislata (Antiguo Hospital Militar de Valencia),39480839011071496,-0.42442073260469276,Mislata,46169,Valencia,Comunidad Valenciana,Hospitales De Media Y Larga Estancia,Sin concierto,38,hospitales
-460351,Hospital Universitario de La Ribera,3916073245198559,-0.4178650774623004,Alzira,46017,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,364,hospitales
-460272,Hospital Doctor Moliner,3965690187847305,-0.47419902565352073,Serra,46228,Valencia,Comunidad Valenciana,Hospitales De Media Y Larga Estancia,Sin concierto,365,hospitales
-460370,Hospital de Manises,3948641100513378,-0.4525933759951254,Manises,46159,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,354,hospitales
-460288,Hospital General de Requena,394886439138842,-1.0888195924838793,Requena,46213,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,113,hospitales
-460168,Hospital Psiquiatrico Provincial,3959552210064141,-0.4591281579745601,Bétera,46070,Valencia,Comunidad Valenciana,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,30,hospitales
-460207,Hospital Francesc de Borja de Gandia,38964143322466090,-0.1695293204729875,Gandia,46131,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,285,hospitales
-460392,Hospital de Lliria,39641669711009760,-0.6189408813471733,Llíria,46147,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,92,hospitales
-460235,Hospital General de Ontinyent,38820841865670296,-0.6029820393063584,Ontinyent,46184,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,56,hospitales
-460229,Hospital Lluis Alcanyis de Xativa,390068750068429,-0.5101954053819415,Xàtiva,46145,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,273,hospitales
-450092,Hospital Universitario de Toledo (Hut),3985959775601237,-3.9596727787622745,Toledo,45168,Toledo,Castilla-La Mancha,Hospitales Generales,DC,865,hospitales
-450067,Hospital General Nuestra Señora Del Prado,3996422537290595,-4.807647073536462,Talavera De La Reina,45165,Toledo,Castilla-La Mancha,Hospitales Generales,Sin concierto,312,hospitales
-450133,Centro de Tratamiento de Drogodependientes El Alba,3986393500302378,-4.083132147804638,Toledo,45168,Toledo,Castilla-La Mancha,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,30,hospitales
-450036,Hospital Nacional de Paraplejicos,39876473418389650,-4.052925587720253,Toledo,45168,Toledo,Castilla-La Mancha,Hospitales Especializados,Sin concierto,210,hospitales
-450020,Hospital Geriatrico Virgen Del Valle,3984425411879116,-4.021257912613801,Toledo,45168,Toledo,Castilla-La Mancha,Hospitales Generales,DC,155,hospitales
-450041,Hospital Provincial Ntra.sra.de La Misericordia,3986105496022189,-4.0131901641626895,Toledo,45168,Toledo,Castilla-La Mancha,Hospitales Generales,DC,144,hospitales
-440027,Hospital de San Jose,40347281538981944,-1.1162900088349565,Teruel,44216,Teruel,Aragón,Hospitales De Media Y Larga Estancia,Sin concierto,50,hospitales
-440033,Centro de Rehabilitacion Psicosocial San Juan de Dios,40345717969463570,-1.1143515208904577,Teruel,44216,Teruel,Aragón,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,150,hospitales
-440012,Hospital Obispo Polanco,4033346916686695,-1.1072031867572647,Teruel,44216,Teruel,Aragón,Hospitales Generales,Sin concierto,211,hospitales
-440048,Hospital de Alcañiz,4104565902052966,-0.13023969885372666,Alcañiz,44013,Teruel,Aragón,Hospitales Generales,Sin concierto,145,hospitales
-430252,Hospital Comarcal D'amposta,4070950181515474,0.5784493899069705,Amposta,43014,Tarragona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),88,hospitales
-430094,Hospital Universitari de Sant Joan de Reus,41145328346350920,1.1230754619151455,Reus,43123,Tarragona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),313,hospitales
-430022,Hospital Sociosanitari Francoli,4112576930456529,1.2392819794261425,Tarragona,43148,Tarragona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),156,hospitales
-430017,Hospital Universitari Joan Xxiii de Tarragona,4112471976018919,1.2385864385695926,Tarragona,43148,Tarragona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),372,hospitales
-430173,Hospital de La Santa Creu,4082792759987426,0.5095608202678227,Tortosa,43155,Tarragona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),250,hospitales
-430189,Clinica Terres de L'ebre,4081442404487495,0.5161941848906632,Tortosa,43155,Tarragona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),40,hospitales
-430167,Hospital de Tortosa Verge de La Cinta,4081158515928647,0.5240319457058812,Tortosa,43155,Tarragona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),248,hospitales
-380048,Hospital Psiquiatrico de Tenerife,28490816405060852,-16.269903004782627,Santa Cruz De Tenerife,38038,Sta. Cruz de Tenerife,Canarias,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,DC,94,hospitales
-380012,Hospital Universitario Nuestra Señora de Candelaria,28448640266963556,-16.28554899039314,Santa Cruz De Tenerife,38038,Sta. Cruz de Tenerife,Canarias,Hospitales Generales,DC,839,hospitales
-380326,Hospital Universitario de Canarias,28457075208447468,-16.29207049731756,San Cristóbal De La Laguna,38023,Sta. Cruz de Tenerife,Canarias,Hospitales Generales,DC,681,hospitales
-380033,Hospital Del Torax,28457896971399728,-16.29013699222057,Santa Cruz De Tenerife,38038,Sta. Cruz de Tenerife,Canarias,Hospitales Generales,DC,63,hospitales
-380337,Hospital Del Norte,28385548454628164,-16.684554367541345,Icod De Los Vinos,38022,Sta. Cruz de Tenerife,Canarias,Hospitales De Media Y Larga Estancia,DC,51,hospitales
-380316,Hospital General de La Palma,28673396623518684,-17.79056914658452,Breña Alta,38008,Sta. Cruz de Tenerife,Canarias,Hospitales Generales,Sin concierto,198,hospitales
-380276,Hospital Insular Nuestra Señora de Los Reyes,27814684528428824,-17.915550907185374,Valverde,38048,Sta. Cruz de Tenerife,Canarias,Hospitales Generales,Sin concierto,32,hospitales
-380348,Hospital Del Sur,2806937074012473,-16.705218449306713,Arona,38006,Sta. Cruz de Tenerife,Canarias,Hospitales Generales,DC,98,hospitales
-380244,Hospital Nuestra Señora de Guadalupe,28188405694350636,-17.140314396826287,San Sebastián De La Gomera,38036,Sta. Cruz de Tenerife,Canarias,Hospitales Generales,Sin concierto,40,hospitales
-420040,Complejo Asistencial de Soria,4177196026465952,-2.471446589131595,Soria,42173,Soria,Castilla y León,Hospitales Generales,DC,323,hospitales
-410251,Hospital La Merced,37385836824499510,-5.049984225544262,Osuna,41068,Sevilla,Andalucía,Hospitales Generales,Sin concierto,225,hospitales
-410303,Hospital Universitario Virgen de Valme,3731900369486172,-5.971252428780723,Sevilla,41091,Sevilla,Andalucía,Hospitales Generales,DC,504,hospitales
-410476,Hospital de La Mujer,3736359936625909,-5.977965280797272,Sevilla,41091,Sevilla,Andalucía,Hospitales Especializados,DC,221,hospitales
-410465,Hospital Infantil,3736083485600298,-5.981249268548902,Sevilla,41091,Sevilla,Andalucía,Hospitales Especializados,DC,136,hospitales
-410286,Hospital Universitario Virgen Del Rocio,3736245255308134,-5.980357108734125,Sevilla,41091,Sevilla,Andalucía,Hospitales Generales,DC,655,hospitales
-410055,Hospital San Lazaro,374148130597663,-5.982801040788661,Sevilla,41091,Sevilla,Andalucía,Hospitales Generales,DC,66,hospitales
-410093,Hospital Duques Del Infantado,3736382827741473,-5.987840707977214,Sevilla,41091,Sevilla,Andalucía,Hospitales Generales,DC,43,hospitales
-410299,Hospital Universitario Virgen Macarena,37407193390940976,-5.986515574366115,Sevilla,41091,Sevilla,Andalucía,Hospitales Generales,DC,777,hospitales
-410454,Hospital de Alta Resolución de Lebrija,3691096250929396,-6.072622637323693,Lebrija,41053,Sevilla,Andalucía,Hospitales Generales,Sin concierto,22,hospitales
-410353,Hospital San Juan de Dios Del Aljarafe,37373663707605784,-6.084704900030496,Bormujos,41017,Sevilla,Andalucía,Hospitales Generales,Sin concierto,200,hospitales
-410227,Hospital El Tomillar,3729877220322607,-5.900592231518118,Alcalá De Guadaíra,41004,Sevilla,Andalucía,Hospitales Generales,DC,80,hospitales
-410419,Hospital de Alta Resolucion de Ecija,37533046628831440,-5.092299126637166,Écija,41039,Sevilla,Andalucía,Hospitales Generales,Sin concierto,36,hospitales
-410248,Hospital de Alta Resolucion de Moron de La Frontera,37117902762066370,-5.454036545981947,Morón De La Frontera,41065,Sevilla,Andalucía,Hospitales Generales,Sin concierto,12,hospitales
-410346,Hospital Psiquiatrico Penitenciario,37570016995346856,-5.833801503480218,Sevilla,41091,Sevilla,Andalucía,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,184,hospitales
-410205,Hospital de Emergencia Covid 19,3734621226764457,-5.971835788777407,Sevilla,41091,Sevilla,Andalucía,Hospitales Especializados,DC,175,hospitales
-410386,Hospital de Alta Resolucion de Utrera,3717674430371305,-5.7849065806359254,Utrera,41095,Sevilla,Andalucía,Hospitales Generales,Sin concierto,14,hospitales
-400019,Hospital General de Segovia (Complejo Asistencial de Segovia),40943838090705560,-4.128174958836111,Segovia,40194,Segovia,Castilla y León,Hospitales Generales,Sin concierto,381,hospitales
-370016,Complejo Asistencial Universitario de Salamanca,4096473641022909,-5.673476024865003,Salamanca,37274,Salamanca,Castilla y León,Hospitales Generales,DC,726,hospitales
-370074,Hospital Los Montalvos (Complejo Asistencial Universitario de Salamanca),4092765947373484,-5.74070434901838,Carrascal De Barregas,37087,Salamanca,Castilla y León,Hospitales Generales,DC,185,hospitales
-360340,Complexo Hospitalario Universitario de Pontevedra,42429105152512240,-8.637778762498703,Pontevedra,36038,Pontevedra,Galicia,Hospitales Generales,Sin concierto,603,hospitales
-360368,Complexo Hospitalario Universitario de Vigo,4219003907585807,-8.714584559314945,Vigo,36057,Pontevedra,Galicia,Hospitales Generales,Sin concierto,1252,hospitales
-360353,Hospital Publico Do Salnes,4257420204621841,-8.727230490683581,Vilagarcía De Arousa,36060,Pontevedra,Galicia,Hospitales Generales,Sin concierto,130,hospitales
-340063,Complejo Asistencial Universitario de Palencia,4200129651520501,-4.539441742257816,Palencia,34120,Palencia,Castilla y León,Hospitales Generales,DC,495,hospitales
-320126,Hospital Publico de Valdeorras,424177997043617,-6.991166206781056,"Barco De Valdeorras, O",32009,Ourense,Galicia,Hospitales Generales,Sin concierto,100,hospitales
-320013,Complexo Hospitalario Universitario de Ourense,42327133897085010,-7.860511226343834,Ourense,32054,Ourense,Galicia,Hospitales Generales,Sin concierto,881,hospitales
-320150,Hospital Publico de Verin,4195425715543224,-7.42976563459208,Verín,32085,Ourense,Galicia,Hospitales Generales,Sin concierto,80,hospitales
-310039,Centro San Francisco Javier,4283384135027225,-1.624810608908716,Pamplona,31201,Navarra,Navarra,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,84,hospitales
-310150,Hospital Universitario de Navarra,42805398164357536,-1.6682742286498777,Pamplona,31201,Navarra,Navarra,Hospitales Generales,Sin concierto,1077,hospitales
-310121,Hospital Garcia Orcoyen,42683396869544400,-2.0392425809939327,Estella-Lizarra,31097,Navarra,Navarra,Hospitales Generales,Red de utilización pública (RUP),106,hospitales
-300222,Hospital General Universitario Los Arcos Del Mar Menor,3781917493562586,-0.859659629722364,San Javier,30035,Murcia,Murcia,Hospitales Generales,Sin concierto,255,hospitales
-300145,Hospital Santa Maria Del Rosell,3760814080041689,-0.9765997655391645,Cartagena,30016,Murcia,Murcia,Hospitales Generales,DC,41,hospitales
-300243,Hospital Virgen Del Castillo,3861648274644791,-1.1078635633219456,Yecla,30043,Murcia,Murcia,Hospitales Generales,Sin concierto,96,hospitales
-300026,Hospital General Universitario Reina Sofia,379833154012513,-1.121683158844717,Murcia,30030,Murcia,Murcia,Hospitales Generales,Sin concierto,339,hospitales
-300269,Hospital G. Universitario J.m. Morales Meseguer,3799456112786762,-1.1292618024957664,Murcia,30030,Murcia,Murcia,Hospitales Generales,Sin concierto,394,hospitales
-300032,Hospital Psiquiatrico Roman Alberca,3794406677217921,-1.1673161133531142,Murcia,30030,Murcia,Murcia,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,96,hospitales
-300124,Hospital Comarcal Del Noroeste,3810447963685015,-1.8675070222717545,Caravaca De La Cruz,30015,Murcia,Murcia,Hospitales Generales,Sin concierto,103,hospitales
-300351,Hospital General Universitario Santa Lucia,3760190033407428,-0.9610748128032109,Cartagena,30016,Murcia,Murcia,Hospitales Generales,DC,603,hospitales
-300281,Hospital de La Vega Lorenzo Guirao,38229622660424350,-1.4088097293850734,Cieza,30019,Murcia,Murcia,Hospitales Generales,Sin concierto,124,hospitales
-300256,Hospital Rafael Mendez,37645343489541200,-1.734740722628756,Lorca,30024,Murcia,Murcia,Hospitales Generales,Sin concierto,287,hospitales
-300011,Hospital Clinico Universitario Virgen de La Arrixaca,3793309533217572,-1.162461755431261,Murcia,30030,Murcia,Murcia,Hospitales Generales,Sin concierto,920,hospitales
-520018,Hospital Comarcal de Melilla,35286931810326932,-2.9474702629616982,Melilla,52001,Melilla,Melilla,Hospitales Generales,Sin concierto,170,hospitales
-290206,Hospital de La Axarquia,3675191033250582,-4.089998363484687,Vélez-Málaga,29094,Málaga,Andalucía,Hospitales Generales,Sin concierto,196,hospitales
-290234,Hospital Universitario Regional de Malaga,367237911690085,-4.449782964948942,Málaga,29067,Málaga,Andalucía,Hospitales Generales,DC,523,hospitales
-290213,Hospital Maritimo de Torremolinos,36637824300892330,-4.488206711691495,Torremolinos,29901,Málaga,Andalucía,Hospitales Generales,DC,89,hospitales
-290287,Hospital Costa Del Sol,36508374834603640,-4.827846077296982,Marbella,29069,Málaga,Andalucía,Hospitales Generales,Sin concierto,408,hospitales
-290154,Hospital de Antequera,3703173910727669,-4.528202830772888,Antequera,29015,Málaga,Andalucía,Hospitales Generales,Sin concierto,159,hospitales
-290038,Hospital Civil,3672765865350784,-4.431406223687958,Málaga,29067,Málaga,Andalucía,Hospitales Generales,DC,201,hospitales
-290517,Hospital Valle de Guadalhorce de Cartama,3672276361349334,-4.670537048744349,Málaga,29067,Málaga,Andalucía,Hospitales Generales,DC,28,hospitales
-290252,Hospital Universitario Virgen de La Victoria,3671904334765732,-4.478191941963221,Málaga,29067,Málaga,Andalucía,Hospitales Generales,DC,657,hospitales
-290265,Hospital Materno Infantil Del H.u.r. de Málaga,36730195589967e3,-4.432536018842744,Málaga,29067,Málaga,Andalucía,Hospitales Especializados,DC,349,hospitales
-290506,Hospital de La Serrania,3672298154962762,-5.1463271093092136,Ronda,29084,Málaga,Andalucía,Hospitales Generales,Sin concierto,150,hospitales
-280745,Hospital Universitario Principe de Asturias,4051026391698508,-3.348474491596173,Alcalá De Henares,28005,Madrid,Madrid,Hospitales Generales,Sin concierto,507,hospitales
-281337,Hospital Universitario de Torrejon,40465363201929136,-3.435250118785683,Torrejón De Ardoz,28148,Madrid,Madrid,Hospitales Generales,Sin concierto,250,hospitales
-281281,Hospital Universitario Del Sureste - Empresa Publica Hospital Del Sureste,40297029173414610,-3.457057888335406,Arganda Del Rey,28014,Madrid,Madrid,Hospitales Generales,Sin concierto,132,hospitales
-281269,Empresa Publica Hospital Del Henares,4041879212206592,-3.532685069045119,Coslada,28049,Madrid,Madrid,Hospitales Generales,Sin concierto,249,hospitales
-281292,Hospital Del Tajo S.a.,4005741371588189,-3.6109010341623953,Aranjuez,28013,Madrid,Madrid,Hospitales Generales,Sin concierto,98,hospitales
-281445,Servicio Madrileño de Salud [Enfermera Isabel Zendal],4048578229041128,-3.606424686410065,Madrid,28079,Madrid,Madrid,Otros Centros Con Internamiento,Sin concierto,652,hospitales
-281258,Hospital Universitario Infanta Sofía,40558935249154840,-3.610880944611973,San Sebastián De Los Reyes,28134,Madrid,Madrid,Hospitales Generales,Sin concierto,276,hospitales
-281405,Hospital Universitario Infanta Leonor,4038687699936761,-3.617893779985348,Madrid,28079,Madrid,Madrid,Hospitales Generales,DC,269,hospitales
-280091,Hospital Virgen de La Torre,40381620166990520,-3.618967390118112,Madrid,28079,Madrid,Madrid,Hospitales De Media Y Larga Estancia,DC,92,hospitales
-280035,Hospital Universitario 12 de Octubre,4037646158291744,-3.699018170511195,Madrid,28079,Madrid,Madrid,Hospitales Generales,Sin concierto,1196,hospitales
-280225,Hospital General Universitario Gregorio Marañon,4042101115545863,-3.6708613739358418,Madrid,28079,Madrid,Madrid,Hospitales Generales,DC,1143,hospitales
-280112,Hospital Universitario Santa Cristina,40422715252587400,-3.670952296155677,Madrid,28079,Madrid,Madrid,Hospitales Generales,Sin concierto,156,hospitales
-280259,Instituto Provincial de Rehabilitacion,4043320488774724,-3.6726418022045055,Madrid,28079,Madrid,Madrid,Hospitales Especializados,DC,96,hospitales
-280127,Hospital Universitario de La Princesa,404339871192826,-3.6757323144839917,Madrid,28079,Madrid,Madrid,Hospitales Generales,Sin concierto,524,hospitales
-280133,Hospital Infantil Universitario Niño Jesus,4041436677161843,-3.676578407785402,Madrid,28079,Madrid,Madrid,Hospitales Especializados,Sin concierto,170,hospitales
-281304,Hospital Infanta Cristina,4021849049379435,-3.7828499116415175,Madrid,28079,Madrid,Madrid,Hospitales Generales,Sin concierto,188,hospitales
-281168,Hospital Universitario La Paz,4048115505299378,-3.6873870877890775,Madrid,28079,Madrid,Madrid,Hospitales Generales,DC,1044,hospitales
-281236,Hospital Universitario Infanta Elena,4019835725866478,-3.6974064020952353,Valdemoro,28161,Madrid,Madrid,Hospitales Generales,Sin concierto,182,hospitales
-280164,Hospital Carlos III,404750582631749,-3.6958892309239664,Madrid,28079,Madrid,Madrid,Otros Centros Con Internamiento,DC,95,hospitales
-280148,"Hospital Central de La Cruz Roja, San Jose Y Santa Adela",4044724773485157,-3.7098286901333317,Madrid,28079,Madrid,Madrid,Otros Centros Con Internamiento,Sin concierto,156,hospitales
-281427,Instituto Psiquiatrico Servicios de Salud Mental Jose Germain,4032718313495276,-3.7675264518885743,Leganés,28074,Madrid,Madrid,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,DC,181,hospitales
-280838,Hospital Universitario Severo Ochoa,403203231394437,-3.7694159309279414,Leganés,28074,Madrid,Madrid,Hospitales Generales,Sin concierto,386,hospitales
-281146,Hospital Universitario de Fuenlabrada,4028721184739977,-3.8158551584440548,Fuenlabrada,28058,Madrid,Madrid,Hospitales Generales,Sin concierto,406,hospitales
-281071,Hospital Universitario Fundacion Alcorcon,4034882135590341,-3.8373631732555085,Alcorcón,28007,Madrid,Madrid,Hospitales Generales,Sin concierto,402,hospitales
-281348,Hospital Universitario Rey Juan Carlos,40339188579276664,-3.870593273255759,Móstoles,28092,Madrid,Madrid,Hospitales Generales,Sin concierto,382,hospitales
-281315,Hospital Universitario Puerta de Hierro Majadahonda,40450232672228080,-3.874215802088754,Majadahonda,28080,Madrid,Madrid,Hospitales Generales,Sin concierto,613,hospitales
-281359,Hospital General de Villalba,4065485369747207,-4.000770630919332,Collado Villalba,28047,Madrid,Madrid,Hospitales Generales,Sin concierto,217,hospitales
-280761,Hospital de La Fuenfria,4076071197181578,-4.074016498979927,Cercedilla,28038,Madrid,Madrid,Hospitales De Media Y Larga Estancia,Sin concierto,192,hospitales
-280800,Hospital de Guadarrama,4066956362970364,-4.086399517426474,Guadarrama,28068,Madrid,Madrid,Hospitales De Media Y Larga Estancia,Sin concierto,144,hospitales
-280989,Hospital Universitario de Getafe,4031258538438653,-3.7423443597639983,Getafe,28065,Madrid,Madrid,Hospitales Generales,Sin concierto,543,hospitales
-280029,Hospital Universitario Ramon Y Cajal,4048737638024313,-3.6945699597595008,Madrid,28079,Madrid,Madrid,Hospitales Generales,Sin concierto,857,hospitales
-280262,Hospital Psiquiatrico Doctor Rodriguez Lafora,4053203597050922,-3.6916596597583613,Madrid,28079,Madrid,Madrid,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,334,hospitales
-280072,Hospital Universitario Clinico San Carlos,4044080407566535,-3.7200542732531563,Madrid,28079,Madrid,Madrid,Hospitales Generales,Sin concierto,861,hospitales
-280210,Hospital de Cantoblanco,40539209839759590,-3.694341717429883,Madrid,28079,Madrid,Madrid,Hospitales Generales,DC,131,hospitales
-280894,Hospital Universitario de Mostoles,4031591066858788,-3.8776534952954584,Móstoles,28092,Madrid,Madrid,Hospitales Generales,Sin concierto,328,hospitales
-280920,Hospital El Escorial,40607566534071224,-4.119273030920561,San Lorenzo De El Escorial,28131,Madrid,Madrid,Hospitales Generales,Sin concierto,91,hospitales
-280936,Hospital Virgen de La Poveda,4024762675705572,-4.276358059765673,Villa Del Prado,28171,Madrid,Madrid,Hospitales De Media Y Larga Estancia,Sin concierto,202,hospitales
-270018,Complexo Hospitalario Universitario de Lugo,430203851146272,-7.5348754265010465,Lugo,27028,Lugo,Galicia,Hospitales Generales,Sin concierto,817,hospitales
-270095,Hospital Publico Da Mariña,4365206356741085,-7.359922202003151,Burela,27902,Lugo,Galicia,Hospitales Generales,Sin concierto,156,hospitales
-270109,Hospital Publico de Monforte,42527484652486856,-7.519684027167925,Monforte De Lemos,27031,Lugo,Galicia,Hospitales Generales,Sin concierto,142,hospitales
-250024,Hospital Santa Maria,41624094439133270,0.6182492114343354,Lleida,25120,Lleida,Cataluña,Hospitales Generales,Red de utilización pública (RUP),229,hospitales
-250019,Hospital Universitari Arnau de Vilanova de Lleida.,4162646564331112,0.6127180829813426,Lleida,25120,Lleida,Cataluña,Hospitales Generales,Red de utilización pública (RUP),463,hospitales
-250138,"Centre Sanitari Del Solsones, Fpc",4199329739981042,1.516489981995748,Solsona,25207,Lleida,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),32,hospitales
-250143,Hospital Comarcal Del Pallars,4216443342676425,0.897317480674962,Tremp,25234,Lleida,Cataluña,Hospitales Generales,Red de utilización pública (RUP),63,hospitales
-240191,Complejo Asistencial Universitario de León,4261881729383817,-5.572387515523911,León,24089,León,Castilla y León,Hospitales De Media Y Larga Estancia,DC,1036,hospitales
-240135,Hospital El Bierzo,4257224198104088,-6.643462430868575,Ponferrada,24115,León,Castilla y León,Hospitales Generales,Sin concierto,413,hospitales
-240220,Hospital Valle de Laciana,4294321534423942,-6.331650453097422,Villablino,24202,León,Castilla y León,Hospitales De Media Y Larga Estancia,Sin concierto,15,hospitales
-350249,Hospital Insular de Lanzarote,28963512996202628,-13.543474977725076,Arrecife,35004,Las Palmas,Canarias,Hospitales De Media Y Larga Estancia,Sin concierto,80,hospitales
-350069,Hospital Universitario de Salud Mental Juan Carlos I,28103427657288824,-15.42299779798076,"Palmas De Gran Canaria, Las",35016,Las Palmas,Canarias,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,DC,119,hospitales
-350271,Hospital San Roque de Guia,2813463291247012,-15.627511556510612,Santa María De Guía De Gran Canaria,35023,Las Palmas,Canarias,Hospitales De Media Y Larga Estancia,DC,54,hospitales
-350228,Hospital Doctor Jose Molina Orosa,2897378615920026,-13.565917209151516,Arrecife,35004,Las Palmas,Canarias,Hospitales Generales,Sin concierto,252,hospitales
-350332,Hospital Universitario de Gran Canaria Dr. Negrin,2812056033207045,-15.444528675371801,"Palmas De Gran Canaria, Las",35016,Las Palmas,Canarias,Hospitales Generales,DC,652,hospitales
-350290,Complejo Hospitalario Universitario Insular Materno Infantil,28081231164381796,-15.417314513559617,"Palmas De Gran Canaria, Las",35016,Las Palmas,Canarias,Hospitales Generales,Sin concierto,916,hospitales
-350252,Hospital General de Fuerteventura,28490089703100960,-13.869992815842608,Puerto Del Rosario,35017,Las Palmas,Canarias,Hospitales Generales,Sin concierto,131,hospitales
-260027,Hospital San Pedro,42451207346489800,-2.425876376902024,Logroño,26089,La Rioja,La Rioja,Hospitales Generales,DC,522,hospitales
-260110,Centro Asistencial Albelda de Iregua,423582261793042,-2.4732958951622828,Albelda De Iregua,26005,La Rioja,La Rioja,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,140,hospitales
-260132,Centro Sociosanitario de Convalecencia Nuestra Señora Virgen Del Carmen,42314631489545800,-1.9803588610974658,Calahorra,26036,La Rioja,La Rioja,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),75,hospitales
-260099,Fundacion Hospital Calahorra,4231307824655784,-1.9796030173831256,Calahorra,26036,La Rioja,La Rioja,Hospitales Generales,Concierto sustitutorio,80,hospitales
-260012,Hospital de La Rioja,4246851948550112,-2.442181838336003,Logroño,26089,La Rioja,La Rioja,Hospitales Generales,DC,68,hospitales
-230079,Hospital  San Agustin,3808848172383574,-3.643062575162934,Linares,23055,Jaén,Andalucía,Hospitales Generales,Sin concierto,204,hospitales
-230047,Hospital Neurotraumatologico Del H.u. de Jaen,37795752279660210,-3.7786422751700046,Jaén,23050,Jaén,Andalucía,Hospitales Generales,DC,186,hospitales
-230195,Hospital Puerta de Andalucia,3779543209153872,-3.7773871886624732,Jaén,23050,Jaén,Andalucía,Hospitales Generales,DC,79,hospitales
-230145,Hospital Alto Guadalquivir,3803993287928311,-4.030523573313163,Andújar,23005,Jaén,Andalucía,Hospitales Generales,Sin concierto,67,hospitales
-230173,Hospital de Alta Resolucion de Alcaudete,3758690157578585,-4.081128641680629,Alcaudete,23003,Jaén,Andalucía,Hospitales Generales,Sin concierto,16,hospitales
-230184,Hospital de Alta Resolucion de Alcala La Real,3745391556793536,-3.931532259566841,Alcalá La Real,23002,Jaén,Andalucía,Hospitales Generales,Sin concierto,28,hospitales
-230206,Centro Hospitalario de Alta Resolucion de Cazorla,3791540326999698,-3.0143638263187964,Cazorla,23028,Jaén,Andalucía,Hospitales Generales,Sin concierto,26,hospitales
-230026,Hospital Doctor  Sagaz,37770578245421944,-3.8179736886630633,Jaén,23050,Jaén,Andalucía,Hospitales Generales,DC,54,hospitales
-230151,Hospital Materno-Infantil Del H.u. de Jaen,3777589262137083,-3.793658717498785,Jaén,23050,Jaén,Andalucía,Hospitales Especializados,DC,122,hospitales
-230119,Hospital Universitario de Jaen,37775994933919656,-3.7929183200126255,Jaén,23050,Jaén,Andalucía,Hospitales Generales,DC,805,hospitales
-230162,Hospital de Alta Resolucion Sierra de Segura,3836074816835873,-2.7871719598128895,Puente De Génave,23071,Jaén,Andalucía,Hospitales Generales,Sin concierto,24,hospitales
-230098,Hospital San Juan de La Cruz,3801926984071247,-3.3852337309853686,Úbeda,23092,Jaén,Andalucía,Hospitales Generales,Sin concierto,225,hospitales
-220036,Hospital Sagrado Corazon de Jesus,4214231502388158,-0.4011969020443183,Huesca,22125,Huesca,Aragón,Hospitales De Media Y Larga Estancia,Sin concierto,70,hospitales
-220015,Hospital Universitario San Jorge,4213133957910438,-0.42083247320874734,Huesca,22125,Huesca,Aragón,Hospitales Generales,Sin concierto,297,hospitales
-220105,Centro Sanitario Bajo Cinca-Baix Cinca,4152413265328849,0.34095275693323684,Fraga,22112,Huesca,Aragón,Otros Centros Con Internamiento,Sin concierto,20,hospitales
-220054,Hospital de Barbastro,42033313685826416,0.11161719795277995,Barbastro,22048,Huesca,Aragón,Hospitales Generales,Sin concierto,170,hospitales
-220020,Centro de Rehabilitacion Psicosocial Santo Cristo de Los Milagros,4215117788732292,-0.4141601480742644,Huesca,22125,Huesca,Aragón,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,110,hospitales
-220089,Hospital de Jaca Salud,4258247717875982,-0.5371049665681487,Jaca,22130,Huesca,Aragón,Hospitales Generales,Sin concierto,50,hospitales
-210097,Hospital de Riotinto,37693282548626960,-6.597677073751083,Minas De Riotinto,21049,Huelva,Andalucía,Hospitales Generales,Sin concierto,118,hospitales
-210101,Hospital Universitario Juan Ramon Jimenez,3727991494307404,-6.9269013752615916,Huelva,21041,Huelva,Andalucía,Hospitales Generales,DC,587,hospitales
-210025,Hospital Infanta Elena,37280533729273250,-6.913015027391412,Huelva,21041,Huelva,Andalucía,Hospitales Generales,Sin concierto,304,hospitales
-210031,Hospital Vazquez  Diaz,3727972569461783,-6.921029344476345,Huelva,21041,Huelva,Andalucía,Hospitales Generales,DC,91,hospitales
-190077,Instituto de Enfermedades Neurologicas de Castilla-La Mancha,4064134049383467,-3.1726474978326364,Guadalajara,19130,Guadalajara,Castilla-La Mancha,Hospitales De Media Y Larga Estancia,Sin concierto,147,hospitales
-190019,Hospital Universitario de Guadalajara,40619601366763870,-3.1522366175097574,Guadalajara,19130,Guadalajara,Castilla-La Mancha,Hospitales Generales,Sin concierto,432,hospitales
-180122,Hospital de Alta Resolucion de  Guadix,37309776146642560,-3.145286946425602,Guadix,18089,Granada,Andalucía,Hospitales Generales,Sin concierto,50,hospitales
-180107,Hospital Santa Ana,3675474655761499,-3.5201459646656437,Motril,18140,Granada,Andalucía,Hospitales Generales,Sin concierto,184,hospitales
-180150,Hospital Universitario Clinico San Cecilio,3714643576743668,-3.6052838040229775,Granada,18087,Granada,Andalucía,Hospitales Generales,Sin concierto,543,hospitales
-180114,Hospital Universitario Virgen de Las Nieves,37188662121245250,-3.609821544581515,Granada,18087,Granada,Andalucía,Hospitales Generales,DC,698,hospitales
-180133,Hospital de Alta Resolución de Loja,3717110358883524,-4.154878032934655,Loja,18122,Granada,Andalucía,Hospitales Generales,Sin concierto,22,hospitales
-180093,Hospital de Baza,37500904079814240,-2.7522950445742627,Baza,18023,Granada,Andalucía,Hospitales Generales,Sin concierto,117,hospitales
-180042,Hospital  de Neurotraumatologia Y Rehabilitacion Del H.u. Virgen de Las Nieves,3719316893326213,-3.607499213899266,Granada,18087,Granada,Andalucía,Hospitales Especializados,DC,241,hospitales
-170237,Hospital Comarcal de Blanes,4168748485196295,2.801934840188208,Blanes,17023,Girona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),121,hospitales
-170101,Hospital de Sant Jaume,4167589699488125,2.7868354435630014,Blanes,17023,Girona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),23,hospitales
-170299,Institut Catala D'oncologia Girona - Hospital Josep Trueta,419978649643148,2.8201010214637456,Girona,17079,Girona,Cataluña,Hospitales Especializados,Red de utilización pública (RUP),26,hospitales
-170221,Residencia de Gent Gran Puig D'en Roca,419951538112621,2.813039774184199,Girona,17079,Girona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),55,hospitales
-170010,Hospital Universitari de Girona Dr. Josep Trueta,4199789890280845,2.8199525565077526,Girona,17079,Girona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),431,hospitales
-170160,Hospital Sociosanitari de Lloret de Mar,417024819790798,2.8501739754062436,Lloret De Mar,17095,Girona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),63,hospitales
-170334,Hospital de Cerdanya / Hopital de Cerdagne,42444077047986330,1.9302778402080836,Puigcerdà,17141,Girona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),66,hospitales
-170301,Hospital Santa Caterina-Ias,41969882197304560,2.7970104222925625,Salt,17155,Girona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),178,hospitales
-170323,Centre Sociosanitari Parc Hospitalari Marti I Julia,41971171684371336,2.7964335119262507,Salt,17155,Girona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),120,hospitales
-170216,Hospital Psiquiatric,4197042664077418,2.7962283695968546,Salt,17155,Girona,Cataluña,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Red de utilización pública (RUP),593,hospitales
-200185,Organizacion Sanitaria Integrada Debagoiena,4306316442124435,-2.4832731273616044,Arrasate/Mondragón,20055,Gipuzkoa,País Vasco,Hospitales Generales,Sin concierto,95,hospitales
-200261,Hospital Universitario Donostia,4329211965164409,-1.9704999020987042,Donostia/San Sebastián,20069,Gipuzkoa,País Vasco,Hospitales Generales,Sin concierto,1034,hospitales
-200270,Eibar Ospitalea,4318221954965686,-2.482539759597594,Eibar,20030,Gipuzkoa,País Vasco,Hospitales De Media Y Larga Estancia,Sin concierto,40,hospitales
-200163,Hospital Bidasoa (Osi Bidasoa),4334250281153697,-1.815076990450064,Hondarribia,20036,Gipuzkoa,País Vasco,Hospitales Generales,Sin concierto,96,hospitales
-200258,Hospital de Mendaro (Osi Bajo Deba),4325054031644711,-2.3855301113343277,Mendaro,20901,Gipuzkoa,País Vasco,Hospitales Generales,Sin concierto,111,hospitales
-200245,Hospital de Zumarraga (Osi Goierri - Alto Urola),43083676751045296,-2.313203437046193,Zumarraga,20080,Gipuzkoa,País Vasco,Hospitales Generales,Sin concierto,118,hospitales
-160014,Hospital Virgen de La Luz,40076088585064210,-2.1479488788878074,Cuenca,16078,Cuenca,Castilla-La Mancha,Hospitales Generales,Sin concierto,388,hospitales
-140116,Hospital Infanta  Margarita,3746846437194571,-4.42492735806922,Cabra,14013,Córdoba,Andalucía,Hospitales Generales,Sin concierto,232,hospitales
-140044,Hospital Materno - Infantil Del H.u. Reina Sofia,3786753946823709,-4.797810331071442,Córdoba,14021,Córdoba,Andalucía,Hospitales Generales,DC,194,hospitales
-140060,Hospital Provincial,37868840479746480,-4.7918071445656,Córdoba,14021,Córdoba,Andalucía,Hospitales Generales,DC,389,hospitales
-140023,Hospital Universitario Reina Sofia,37867793558381960,-4.797842517577255,Córdoba,14021,Córdoba,Andalucía,Hospitales Generales,DC,607,hospitales
-140039,Hospital Los Morales,379339105417868,-4.805107744564078,Córdoba,14021,Córdoba,Andalucía,Hospitales Generales,DC,19,hospitales
-140195,Hospital de Montilla,37564913992864256,-4.648729517584393,Montilla,14042,Córdoba,Andalucía,Hospitales Generales,Sin concierto,92,hospitales
-140229,Hospital de Alta Resolucion Valle Del Guadiato,3830854085465976,-5.270406502225656,Peñarroya-Pueblonuevo,14052,Córdoba,Andalucía,Hospitales Generales,Sin concierto,17,hospitales
-140121,Hospital  Valle de Los Pedroches,38383111579657150,-4.848564044553353,Pozoblanco,14054,Córdoba,Andalucía,Hospitales Generales,Sin concierto,135,hospitales
-140218,Hospital de Alta Resolucion  de Puente Genil,3739917108688789,-4.751230902247188,Puente Genil,14056,Córdoba,Andalucía,Hospitales Generales,Sin concierto,24,hospitales
-130052,Hospital General La Mancha Centro,39396578661781730,-3.218872794245752,Alcázar De San Juan,13005,Ciudad Real,Castilla-La Mancha,Hospitales Generales,Sin concierto,362,hospitales
-130127,Hospital General de Ciudad Real,3897065776222143,-3.9309580617271163,Ciudad Real,13034,Ciudad Real,Castilla-La Mancha,Hospitales Generales,Sin concierto,564,hospitales
-130034,Servicios Sanitarios Y Asistenciales,38989124866849144,-3.933070709423595,Ciudad Real,13034,Ciudad Real,Castilla-La Mancha,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,85,hospitales
-130065,Hospital Virgen de Altagracia,3899893156557138,-3.3625029733737297,Manzanares,13053,Ciudad Real,Castilla-La Mancha,Hospitales Generales,Sin concierto,118,hospitales
-130071,Hospital Santa Barbara,3870602985886557,-4.110917475227739,Puertollano,13071,Ciudad Real,Castilla-La Mancha,Hospitales Generales,Sin concierto,141,hospitales
-130128,Hospital General de Tomelloso,39175218413903270,-3.006860531039979,Tomelloso,13082,Ciudad Real,Castilla-La Mancha,Hospitales Generales,Sin concierto,155,hospitales
-130087,Hospital General de Valdepeñas,3877094001479684,-3.3929725040614294,Valdepeñas,13087,Ciudad Real,Castilla-La Mancha,Hospitales Generales,Sin concierto,103,hospitales
-510039,Hospital Universitario de Ceuta,3588035756607437,-5.34176944645827,Ceuta,51001,Ceuta,Ceuta,Hospitales Generales,Sin concierto,252,hospitales
-120017,Hospital General Universitario de Castellon,4000230846093247,-0.04161653101950065,Castelló De La Plana,12040,Castellón,Comunidad Valenciana,Hospitales Generales,Sin concierto,521,hospitales
-120043,Consorcio Hospitalario Provincial de Castellon,3998426287613909,-0.04608931752576453,Castelló De La Plana,12040,Castellón,Comunidad Valenciana,Hospitales Generales,Sin concierto,257,hospitales
-120038,Hospital La Magdalena,40004421378917120,-0.07296457519577905,Castelló De La Plana,12040,Castellón,Comunidad Valenciana,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),128,hospitales
-120115,Hospital Comarcal de Vinaros,4046397641922563,0.4500482346161389,Vinaròs,12138,Castellón,Comunidad Valenciana,Hospitales Generales,Sin concierto,174,hospitales
-120136,Hospital Universitario de La Plana,3992471334145264,-0.09716313223176985,Vila-Real,12135,Castellón,Comunidad Valenciana,Hospitales Generales,Sin concierto,258,hospitales
-390134,Hospital Comarcal de Laredo,4341424586607014,-3.4416401886012156,Laredo,39035,Cantabria,Cantabria,Hospitales Generales,Sin concierto,131,hospitales
-390015,Hospital Universitario Marques de Valdecilla,43456084667213330,-3.8291995732590265,Santander,39075,Cantabria,Cantabria,Hospitales Generales,Sin concierto,923,hospitales
-390149,Hospital Sierrallana,43361791915273810,-4.076400117908879,Torrelavega,39087,Cantabria,Cantabria,Hospitales Generales,Sin concierto,301,hospitales
-110259,Hospital Punta de Europa,3611082781250486,-5.44422817344146,Algeciras,11004,Cádiz,Andalucía,Hospitales Generales,Sin concierto,270,hospitales
-110012,Hospital Universitario Puerta Del Mar,3650905186296869,-6.277950675325797,Cádiz,11012,Cádiz,Andalucía,Hospitales Generales,DC,674,hospitales
-110110,Hospital Universitario de Jerez de La Frontera,3669927528740735,-6.148861648712269,Jerez De La Frontera,11020,Cádiz,Andalucía,Hospitales Generales,Sin concierto,476,hospitales
-110316,Hospital de La Linea de La Concepcion,3617583846385489,-5.352705585360657,"Línea De La Concepción, La",11022,Cádiz,Andalucía,Hospitales Generales,Sin concierto,243,hospitales
-110184,Hospital Universitario de Puerto Real,3652061591586541,-6.151442657116468,Puerto Real,11028,Cádiz,Andalucía,Hospitales Generales,Sin concierto,319,hospitales
-110305,Hospital San  Carlos de San Fernando,3647998630754426,-6.195094150354799,San Fernando,11031,Cádiz,Andalucía,Hospitales Generales,DC,66,hospitales
-110213,Hospital de Alta Resolucion de Especialidades de La Janda,3625242249831088,-5.981477094532885,Vejer De La Frontera,11039,Cádiz,Andalucía,Hospitales Generales,Sin concierto,24,hospitales
-100089,Hospital Universitario de Caceres,39476674248512890,-6.329665870518557,Cáceres,10037,Cáceres,Extremadura,Hospitales Generales,DC,269,hospitales
-100015,Hospital San Pedro de Alcantara,39465248788133570,-6.367797883314898,Cáceres,10037,Cáceres,Extremadura,Hospitales Generales,DC,419,hospitales
-100041,Hospital Ciudad de Coria,3999110519636134,-6.542119804627243,Coria,10067,Cáceres,Extremadura,Hospitales Generales,Sin concierto,108,hospitales
-100054,Hospital Campo Arañuelo,3988855559555775,-5.561131207601831,Navalmoral De La Mata,10131,Cáceres,Extremadura,Hospitales Generales,Sin concierto,99,hospitales
-100073,Centro Sociosanitario de Plasencia,40006174474359800,-6.11320688561201,Plasencia,10148,Cáceres,Extremadura,Hospitales De Media Y Larga Estancia,Sin concierto,350,hospitales
-100067,Hospital Virgen Del Puerto,40049372984591144,-6.086099848129996,Plasencia,10148,Cáceres,Extremadura,Hospitales Generales,Sin concierto,275,hospitales
-090133,Hospital Universitario de Burgos (Complejo Asistencial Univer. de Burgos),4236208126132704,-3.684965101990025,Burgos,09059,Burgos,Castilla y León,Hospitales Generales,DC,777,hospitales
-090079,Hospital Santos Reyes,4166962525230938,-3.6915677903445645,Aranda De Duero,09018,Burgos,Castilla y León,Hospitales Generales,Sin concierto,127,hospitales
-090026,Hospital Fuente Bermeja (Complejo Asistencial Universitario de Burgos),42347059686260770,-3.7115209595539644,Burgos,09059,Burgos,Castilla y León,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,DC,80,hospitales
-090098,Hospital Santiago Apostol,4266989541144397,-2.988819271182707,Miranda De Ebro,09219,Burgos,Castilla y León,Hospitales Generales,Sin concierto,114,hospitales
-480078,Hospital Universitario Basurto,4326159835861989,-2.953037849233282,Bilbao,48020,Bizkaia,País Vasco,Hospitales Generales,Sin concierto,697,hospitales
-480176,Hospital Universitario Cruces,43282623850086024,-2.984350205322709,Barakaldo,48013,Bizkaia,País Vasco,Hospitales Generales,Sin concierto,981,hospitales
-480182,Hospital San Eloy,4329692905955044,-2.9934765997806783,Barakaldo,48013,Bizkaia,País Vasco,Hospitales Generales,Sin concierto,128,hospitales
-480195,Hospital de Bermeo,4342158164043027,-2.7228739822156367,Bermeo,48017,Bizkaia,País Vasco,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,188,hospitales
-480010,Hospital Santa Marina,43262259904279936,-2.8824232990695826,Bilbao,48020,Bizkaia,País Vasco,Hospitales De Media Y Larga Estancia,Sin concierto,234,hospitales
-480209,Hospital Galdakao-Usansolo,43223463362500984,-2.817917777584963,Galdakao,48036,Bizkaia,País Vasco,Hospitales Generales,Sin concierto,481,hospitales
-480216,Hospital de Gorliz,4341734773568112,-2.9443191130001947,Gorliz,48043,Bizkaia,País Vasco,Hospitales De Media Y Larga Estancia,Sin concierto,149,hospitales
-480327,Hospital Urduliz Ospitalea,4337556094513971,-2.9600115556426423,Urduliz,48089,Bizkaia,País Vasco,Hospitales Generales,Sin concierto,128,hospitales
-480300,Hospital de Zaldibar,4317016650530292,-2.547697798349127,Zaldibar,48095,Bizkaia,País Vasco,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,120,hospitales
-480300,Hospital de Zamudio,4329038979412534,-2.8553844957659074,Zamudio,48905,Bizkaia,País Vasco,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,142,hospitales
-081189,Hospital Sant Antoni Abat - Consorci Sanitari Del Garraf.,4122882165946926,1.7219470565354125,Vilanova I La Geltrú,08307,Barcelona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),111,hospitales
-081038,Hospital Residencia Sant Camil - Consorci Sanitari Del Garraf.,4125394660726479,1.7653272264581155,Sant Pere De Ribes,08231,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),295,hospitales
-081075,Hospital de Terrassa,41556919293898870,2.0526300718662966,Terrassa,08279,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),460,hospitales
-081728,Hospital General Penitenciari,41556919293898870,2.0526300718662966,Terrassa,08279,Barcelona,Cataluña,Hospitales Generales,Sin concierto,32,hospitales
-081829,Centre Forum,41412880160682530,2.218365060218614,Barcelona,08019,Barcelona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),223,hospitales
-081694,Institut Catala D'oncologia - Hospital Germans Trias I Pujol,41482006763389384,2.2380878472888157,Badalona,08015,Barcelona,Cataluña,Hospitales Especializados,Red de utilización pública (RUP),36,hospitales
-080667,Hospital Universitari Germans Trias I Pujol de Badalona,4148119979373632,2.2375455413431777,Badalona,08015,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),516,hospitales
-080673,Hospital Municipal de Badalona,4145050221603232,2.245608362286401,Badalona,08015,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),140,hospitales
-080826,Hospital  de  Sant  Jaume,4200188892560407,2.2872183667279895,Manlleu,08112,Barcelona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),90,hospitales
-081326,Hospital de Mataro,41556120917141090,2.4297726377572135,Mataró,08121,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),402,hospitales
-080689,Centre Sociosanitari El Carme,4145912609178147,2.2313057098801656,Badalona,08015,Barcelona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),210,hospitales
-080109,Hospital Clinic de Barcelona,4138913022057069,2.15176218817384,Barcelona,08019,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),844,hospitales
-080057,Hospital Del Mar,4138451924741606,2.1939049790655054,Barcelona,08019,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),470,hospitales
-080060,Hospital de L'esperança,41410731028556610,2.154508059501555,Barcelona,08019,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),161,hospitales
-080431,"Hospital Clinic de Barcelona, Seu Plato",4140120046776947,2.1422919675474468,Barcelona,08019,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),168,hospitales
-081649,Hospital Sociosanitari Pere Virgili,41415662269111710,2.141770289940527,Barcelona,08019,Barcelona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),366,hospitales
-080174,Hospital Dos de Maig,4141054841382434,2.177154314153434,Barcelona,08019,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),229,hospitales
-080044,"Hospital Clinic de Barcelona, Seu Sabino de Arana",4138575536391383,2.1242771998177723,Barcelona,08019,Barcelona,Cataluña,Hospitales Especializados,Red de utilización pública (RUP),130,hospitales
-081347,Hospital Universitari Vall D'hebron,41428226141699040,2.140896301179319,Barcelona,08019,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),1315,hospitales
-080706,Hospital Comarcal Sant Jaume de Calella,4161507739837132,2.6572068444418515,Calella,08035,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),233,hospitales
-080771,Hospital General de L'hospitalet,41374342261826950,2.106557529737786,"Hospitalet De Llobregat, L'",08101,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),89,hospitales
-081461,Institut Catala D'oncologia - Hospital Duran I Reynals,41345415032363256,2.1106926398077412,"Hospitalet De Llobregat, L'",08101,Barcelona,Cataluña,Hospitales Especializados,Red de utilización pública (RUP),126,hospitales
-081739,Centre Sociosanitari de L'hospitalet - Consorci Sanitari Integral,41373840794875384,2.1064070767466347,"Hospitalet De Llobregat, L'",08101,Barcelona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),123,hospitales
-080752,Hospital Universitari de Bellvitge,41344773879197750,2.104232762735191,"Hospitalet De Llobregat, L'",08101,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),1022,hospitales
-081885,Hospital D'igualada,41588718062306,1.620072688562704,Igualada,08102,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),285,hospitales
-081580,Antic Hospital de Sant Jaume I Santa Magdalena,41539743602277896,2.448949632757251,Mataró,08121,Barcelona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),70,hospitales
-080958,Hospital de Sabadell,4155709395873054,2.109867115642845,Sabadell,08187,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),861,hospitales
-082066,Hospital de Sant Joan Despi Moises Broggi,41373323496165230,2.072516507071896,Sant Joan Despí,08217,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),328,hospitales
-081056,Centres Assistencials Dr. Emili Mira I Lopez (Recinte Torribera).,4146215542930197,2.211742671911507,Santa Coloma De Gramenet,08245,Barcelona,Cataluña,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Red de utilización pública (RUP),454,hospitales
-081081,Hospital de Sant Llatzer,41562957064378450,2.017404992436478,Terrassa,08279,Barcelona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),77,hospitales
-081108,Hospital  General  de  Vic,4193668368287671,2.260318084272853,Vic,08298,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),292,hospitales
-081141,Hospital de Viladecans,4131246850917718,2.0146531388245696,Viladecans,08301,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),110,hospitales
-081430,Hospital Comarcal de L'alt Penedes.,4135636822951027,1.7049289709141051,Vilafranca Del Penedès,08305,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),144,hospitales
-081795,Centre Sociosanitari Ricard Fortuny,4133962092151602,1.7044593416219949,Vilafranca Del Penedès,08305,Barcelona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),187,hospitales
-070399,Hospital Universitari Son Espases,3960751834307838,2.645910438368975,Palma,07040,Baleares,Baleares,Hospitales Generales,Sin concierto,839,hospitales
-070162,Hospital Joan March,3967899097021279,2.689038114682408,Bunyola,07010,Baleares,Baleares,Hospitales De Media Y Larga Estancia,Sin concierto,106,hospitales
-070333,Hospital Son Llatzer,3957377394991209,2.703333974947095,Palma,07040,Baleares,Baleares,Hospitales Generales,Sin concierto,423,hospitales
-070388,Hospital Mateu Orfila,3988108645068657,4.252053310429101,Maó-Mahón,07032,Baleares,Baleares,Hospitales Generales,Sin concierto,142,hospitales
-070184,Hospital Can Misses,3891597590593432,1.41885294239624,Eivissa,07026,Baleares,Baleares,Hospitales Generales,Sin concierto,382,hospitales
-070366,Hospital de Formentera,3870758161992566,1.4350809221434542,Formentera,07024,Baleares,Baleares,Hospitales Generales,Sin concierto,12,hospitales
-070377,Hospital Comarcal D´Inca,397157156991751,2.9213884487045987,Inca,07027,Baleares,Baleares,Hospitales Generales,Sin concierto,170,hospitales
-070309,Hospital  de Manacor,39578607196980120,3.207456693314735,Manacor,07033,Baleares,Baleares,Hospitales Generales,Sin concierto,224,hospitales
-070048,Hospital General de Mallorca,39574176513448760,2.6467170520526158,Palma,07040,Baleares,Baleares,Hospitales De Media Y Larga Estancia,Sin concierto,87,hospitales
-070051,Hospital Psiquiatric,39583035791489936,2.6431339645260112,Palma,07040,Baleares,Baleares,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,168,hospitales
-060219,Hospital General de Llerena,3824277396725941,-6.013338573364877,Llerena,06074,Badajoz,Extremadura,Hospitales Generales,DC,138,hospitales
-060135,Centro Sociosanitario de Merida,38923160108863410,-6.30932210118704,Mérida,06083,Badajoz,Extremadura,Hospitales De Media Y Larga Estancia,Sin concierto,296,hospitales
-060188,Hospital de Zafra,38431083362278320,-6.42183832731037,Zafra,06158,Badajoz,Extremadura,Hospitales Generales,DC,91,hospitales
-060037,Hospital Materno-Infantil,3886590030560954,-6.9714182033902645,Badajoz,06015,Badajoz,Extremadura,Hospitales Especializados,DC,225,hospitales
-060220,Hospital Perpetuo Socorro,38866897879958720,-6.9714864446682245,Badajoz,06015,Badajoz,Extremadura,Hospitales Generales,DC,282,hospitales
-060016,Hospital Universitario de Badajoz,3888381063984702,-7.000844818724165,Badajoz,06015,Badajoz,Extremadura,Hospitales Generales,DC,529,hospitales
-060242,Hospital Tierra de Barros,38655823675517176,-6.377168968575332,Almendralejo,06011,Badajoz,Extremadura,Hospitales Generales,DC,50,hospitales
-060253,Hospital Don Benito-Villanueva de La Serena,3896286550304782,-5.827330928840106,Don Benito,06044,Badajoz,Extremadura,Hospitales Generales,DC,292,hospitales
-060264,Hospital de Merida,3891248971366914,-6.363635308525922,Mérida,06083,Badajoz,Extremadura,Hospitales Generales,DC,331,hospitales
-060231,Hospital Siberia-Serena,3903139103811861,-5.223429055331142,Talarrubias,06127,Badajoz,Extremadura,Hospitales Generales,DC,43,hospitales
-050061,Hospital Provincial de Avila (Complejo Asistencial de Avila),4065020094718546,-4.692490196669091,Ávila,05019,Ávila,Castilla y León,Hospitales Generales,DC,119,hospitales
-050013,Hospital Nuestra Señora de Sonsoles (Complejo Asistencial de Avila),4066589561646655,-4.666698927754395,Ávila,05019,Ávila,Castilla y León,Hospitales Generales,DC,321,hospitales
-330156,Hospital Universitario de Cabueñes,4352515363280566,-5.607080417388247,Gijón,33024,Asturias,Asturias,Hospitales Generales,Sin concierto,457,hospitales
-330241,Hospital Valle Del Nalon,4332799888976122,-5.721335764895641,Langreo,33031,Asturias,Asturias,Hospitales Generales,Sin concierto,223,hospitales
-330292,Hospital Universitario Central de Asturias,43375361754318880,-5.827229371053014,Oviedo,33044,Asturias,Asturias,Hospitales Generales,Sin concierto,991,hospitales
-330100,Hospital Universitario San Agustin,4355190015216229,-5.93610776610475,Avilés,33004,Asturias,Asturias,Hospitales Generales,Sin concierto,436,hospitales
-330138,Hospital Carmen Y Severo Ochoa,4316580660776115,-6.541676622455971,Cangas Del Narcea,33011,Asturias,Asturias,Hospitales Generales,Sin concierto,103,hospitales
-330143,Hospital de Jarrio,4354453670912467,-6.7470108924466485,Coaña,33018,Asturias,Asturias,Hospitales Generales,Sin concierto,116,hospitales
-330325,Hospital Vital Alvarez Buylla,4322634693500088,-5.781404565077129,Mieres,33037,Asturias,Asturias,Hospitales Generales,Sin concierto,176,hospitales
-330045,Hospital Monte Naranco,4336994065431126,-5.87284699590848,Oviedo,33044,Asturias,Asturias,Hospitales De Media Y Larga Estancia,Sin concierto,194,hospitales
-330306,Hospital Del Oriente de Asturias Francisco Grande Covian,43381426653702656,-5.184629018169727,Parres,33045,Asturias,Asturias,Hospitales Generales,Sin concierto,90,hospitales
-010035,Red de Salud Mental de Araba (Hospital Psiquiatrico de Araba),428359159856807,-2.6786648398303154,Vitoria-Gasteiz,01059,Araba,País Vasco,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,175,hospitales
-010090,Hospital Universitario Araba (Sede Txagorritxu Y Sede Santiago),4285485306382774,-2.6902253312152036,Vitoria-Gasteiz,01059,Araba,País Vasco,Hospitales Generales,Sin concierto,806,hospitales
-010088,Hospital de Leza,4257599403171243,-2.6385307015523387,Laguardia,01031,Araba,País Vasco,Hospitales De Media Y Larga Estancia,Sin concierto,63,hospitales
-040084,Hospital La Inmaculada,37401492760303330,-1.9417208587517303,Huércal-Overa,04053,Almería,Andalucía,Hospitales Generales,Sin concierto,184,hospitales
-040127,Hospital de Alta Resolucion Eltoyo,3685077173433946,-2.312533009345305,Almería,04013,Almería,Andalucía,Hospitales Generales,Sin concierto,44,hospitales
-040138,Hospital Materno Infantil,36862141592969840,-2.4409642196172996,Almería,04013,Almería,Andalucía,Hospitales Generales,DC,204,hospitales
-040097,Hospital Universitario Torrecardenas,3686270459042128,-2.441183181527891,Almería,04013,Almería,Andalucía,Hospitales Generales,DC,575,hospitales
-040118,Hospital de Poniente,3675329464815091,-2.803825474879591,"Ejido, El",04902,Almería,Andalucía,Hospitales Generales,Sin concierto,261,hospitales
-030395,Centro Dr. Esquerdo,3839273007873701,-0.4387897715910045,Sant Joan D'alacant,03119,Alicante,Comunidad Valenciana,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,NA,56,hospitales
-030015,Hospital General Universitario Dr. Balmis,3836341479162642,-0.48606290952976533,Alicante/Alacant,03014,Alicante,Comunidad Valenciana,Hospitales Generales,Sin concierto,807,hospitales
-030187,Hospital Sant Vicent Del Raspeig,384033406497287,-0.5308329742302617,San Vicente Del Raspeig/Sant Vicent Del Raspeig,03122,Alicante,Comunidad Valenciana,Hospitales De Media Y Larga Estancia,Sin concierto,179,hospitales
-030373,Hospital Universitario Vinalopo,38255333593100080,-0.716052503168188,Elche/Elx,03065,Alicante,Comunidad Valenciana,Hospitales Generales,Sin concierto,214,hospitales
-030165,Hospital General Universitario de Elda-Virgen de La Salud,3849344442309209,-0.8058705591024141,Elda,03066,Alicante,Comunidad Valenciana,Hospitales Generales,Sin concierto,513,hospitales
-030211,Hospital Vega Baja de Orihuela,38089578062190136,-0.8535115451903167,Orihuela,03099,Alicante,Comunidad Valenciana,Hospitales Generales,Sin concierto,336,hospitales
-030351,Hospital La Pedrera,3882838454997836,0.09622655177774518,Dénia,03063,Alicante,Comunidad Valenciana,Hospitales De Media Y Larga Estancia,Sin concierto,107,hospitales
-030067,Hospital Virgen de Los Lirios,3870559458396372,-0.4651823182351086,Alcoy/Alcoi,03009,Alicante,Comunidad Valenciana,Hospitales Generales,Sin concierto,305,hospitales
-030232,Hospital Psiquiatrico Penitenciario de Fontcalent,3835240443139359,-0.5632251765745836,Alicante/Alacant,03014,Alicante,Comunidad Valenciana,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,432,hospitales
-030340,Hospital de Denia,3883409542869372,0.0592443581097699,Dénia,03063,Alicante,Comunidad Valenciana,Hospitales Generales,Sin concierto,266,hospitales
-030152,Hospital General Universitario de Elche,3826005231846689,-0.6849141336210436,Elche/Elx,03065,Alicante,Comunidad Valenciana,Hospitales Generales,Sin concierto,408,hospitales
-030250,Hospital Universitario San Juan de Alicante,3838914369612365,-0.435397692426406,Sant Joan D'alacant,03119,Alicante,Comunidad Valenciana,Hospitales Generales,Sin concierto,396,hospitales
-030339,Hospital Universitario de Torrevieja,3796350431065655,-0.7157506475595699,Torrevieja,03133,Alicante,Comunidad Valenciana,Hospitales Generales,Sin concierto,269,hospitales
-030204,Hospital Marina Baixa de La Vila Joiosa,3853011180121682,-0.19837532655863058,"Villajoyosa/Vila Joiosa, La",03139,Alicante,Comunidad Valenciana,Hospitales Generales,Sin concierto,270,hospitales
-020096,Hospital de Hellin,3850431282781953,-1.6887020847025198,Hellín,02037,Albacete,Castilla-La Mancha,Hospitales Generales,Sin concierto,135,hospitales
-020019,Hospital General Universitario de Albacete,3898540887835038,-1.8463029804138509,Albacete,02003,Albacete,Castilla-La Mancha,Hospitales Generales,DC,507,hospitales
-020158,Centro de Atencion A La Salud Mental La Milagrosa,39010631115392610,-1.868001941671904,Albacete,02003,Albacete,Castilla-La Mancha,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,DC,31,hospitales
-020117,Hospital Universitario Nuestra Señora  Del Perpetuo Socorro,3898974314459513,-1.8716701171534444,Albacete,02003,Albacete,Castilla-La Mancha,Hospitales Generales,DC,165,hospitales
-020136,Hospital General de Almansa,3887942432079475,-1.0942172994536605,Almansa,02009,Albacete,Castilla-La Mancha,Hospitales Generales,Sin concierto,93,hospitales
-020147,Hospital General de Villarrobledo,3928013010079962,-2.6021046859662866,Villarrobledo,02081,Albacete,Castilla-La Mancha,Hospitales Generales,Sin concierto,114,hospitales
-150130,Complexo Hospitalario Universitario de Ferrol,43510605656399510,-8.216099344394626,Ferrol,15036,A Coruña,Galicia,Hospitales Generales,Sin concierto,467,hospitales
-150341,Hospital Publico Virxe Da Xunqueira,42953670018228736,-9.191234022501442,Cee,15023,A Coruña,Galicia,Hospitales Generales,Sin concierto,79,hospitales
-150011,Complexo Hospitalario Universitario A Coruña,43343877681498256,-8.388053061369446,"Coruña, A",15030,A Coruña,Galicia,Hospitales Generales,Sin concierto,1345,hospitales
-150336,Hospital Publico Da Barbanza,42593817107552600,-8.999401087303239,Ribeira,15073,A Coruña,Galicia,Hospitales Generales,Sin concierto,82,hospitales
-150200,Complexo Hospitalario Universitario de Santiago,42869387364012530,-8.565744062856446,Santiago De Compostela,15078,A Coruña,Galicia,Hospitales Generales,Sin concierto,1511,hospitales
+500074,Hospital Nuestra Señora de Gracia,41652679180799920,-8869117537780002,Zaragoza,50297,Zaragoza,Aragón,Hospitales Generales,Sin concierto,145,hospitales
+500055,Hospital Royo Villanova,4169343928135535,-8610028748433769,Zaragoza,50297,Zaragoza,Aragón,Hospitales Generales,Sin concierto,256,hospitales
+500114,Hospital San Juan de Dios,416349923343035,-8879763038094458,Zaragoza,50297,Zaragoza,Aragón,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),188,hospitales
+500021,Hospital Universitario Miguel Servet,41634947025930176,-8999279420946311,Zaragoza,50297,Zaragoza,Aragón,Hospitales Generales,Sin concierto,1198,hospitales
+500068,Centro de Rehabilitacion Psicosocial Nuestra Señora Del Pilar,4164693654222808,-9089887018609040,Zaragoza,50297,Zaragoza,Aragón,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,200,hospitales
+500200,Centro Sanitario Cinco Villas,4212629578880164,-11300587881474546,Ejea De Los Caballeros,50095,Zaragoza,Aragón,Otros Centros Con Internamiento,Sin concierto,32,hospitales
+500188,Unidad Rehabilitadora de Media Estancia Profesor Rey Ardid,41689288199762320,-8897007263892905,Zaragoza,50297,Zaragoza,Aragón,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Red de utilización pública (RUP),39,hospitales
+500140,Hospital General de La Defensa En Zaragoza,41630385336954176,-9039269624884078,Zaragoza,50297,Zaragoza,Aragón,Hospitales Generales,Concierto sustitutorio,200,hospitales
+500016,Hospital Clinico Universitario Lozano Blesa,41643751958663536,-9032876924212212,Zaragoza,50297,Zaragoza,Aragón,Hospitales Generales,Sin concierto,808,hospitales
+500153,Hospital Ernest Lluch Martin,4133639093917312,-16461994298767956,Calatayud,50067,Zaragoza,Aragón,Hospitales Generales,Sin concierto,122,hospitales
+490070,Complejo Asistencial de Zamora,41514965001904016,-5731322655160312,Zamora,49275,Zamora,Castilla y León,Hospitales Generales,DC,540,hospitales
+470029,Hospital Clinico Universitario de Valladolid,4165630684353768,-471963062321253,Valladolid,47186,Valladolid,Castilla y León,Hospitales Generales,Sin concierto,777,hospitales
+470014,Hospital Universitario Rio Hortega,41629913679793296,-4713252365821511,Valladolid,47186,Valladolid,Castilla y León,Hospitales Generales,Sin concierto,596,hospitales
+470091,Hospital Medina Del Campo,4129596626834732,-49114157650915776,Medina Del Campo,47085,Valladolid,Castilla y León,Hospitales Generales,Sin concierto,119,hospitales
+460266,Hospital de Sagunto,3967516785778727,-23046123381727360,Sagunto/Sagunt,46220,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,252,hospitales
+460044,Hospital Clinico Universitario de Valencia,39479047702896570,-36207328612649520,València,46250,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,582,hospitales
+460018,Hospital Universitario Y Politecnico La Fe,3944410116132815,-3759487787629363,València,46250,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,1000,hospitales
+460109,Fundacion Instituto Valenciano de Oncologia,39482702564627464,-3905052679621388,València,46250,Valencia,Comunidad Valenciana,Hospitales Especializados,Concierto sustitutorio,117,hospitales
+460369,Hospital Pare Jofre,394536216973314,-39485198677353920,València,46250,Valencia,Comunidad Valenciana,Hospitales De Media Y Larga Estancia,Sin concierto,125,hospitales
+460023,Hospital Universitario Dr. Peset Aleixandre,3945384848291637,-39441546454757590,València,46250,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,539,hospitales
+460060,Consorcio Hospital General Universitario de Valencia,39469187531524,-4084572615980724,València,46250,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,546,hospitales
+460039,Hospital Arnau de Vilanova,39490956316282760,-4037819914415437,València,46250,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,282,hospitales
+460381,Hospital de Cronicos de Mislata (Antiguo Hospital Militar de Valencia),39480839011071496,-42442073260469280,Mislata,46169,Valencia,Comunidad Valenciana,Hospitales De Media Y Larga Estancia,Sin concierto,38,hospitales
+460351,Hospital Universitario de La Ribera,3916073245198559,-4178650774623004,Alzira,46017,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,364,hospitales
+460272,Hospital Doctor Moliner,3965690187847305,-47419902565352070,Serra,46228,Valencia,Comunidad Valenciana,Hospitales De Media Y Larga Estancia,Sin concierto,365,hospitales
+460370,Hospital de Manises,3948641100513378,-4525933759951254,Manises,46159,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,354,hospitales
+460288,Hospital General de Requena,394886439138842,-10888195924838792,Requena,46213,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,113,hospitales
+460168,Hospital Psiquiatrico Provincial,3959552210064141,-4591281579745601,Bétera,46070,Valencia,Comunidad Valenciana,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,30,hospitales
+460207,Hospital Francesc de Borja de Gandia,38964143322466090,-1695293204729875,Gandia,46131,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,285,hospitales
+460392,Hospital de Lliria,39641669711009760,-6189408813471733,Llíria,46147,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,92,hospitales
+460235,Hospital General de Ontinyent,38820841865670296,-6029820393063584,Ontinyent,46184,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,56,hospitales
+460229,Hospital Lluis Alcanyis de Xativa,390068750068429,-5101954053819415,Xàtiva,46145,Valencia,Comunidad Valenciana,Hospitales Generales,Sin concierto,273,hospitales
+450092,Hospital Universitario de Toledo (Hut),3985959775601237,-39596727787622744,Toledo,45168,Toledo,Castilla-La Mancha,Hospitales Generales,DC,865,hospitales
+450067,Hospital General Nuestra Señora Del Prado,3996422537290595,-4807647073536462,Talavera De La Reina,45165,Toledo,Castilla-La Mancha,Hospitales Generales,Sin concierto,312,hospitales
+450133,Centro de Tratamiento de Drogodependientes El Alba,3986393500302378,-4083132147804638,Toledo,45168,Toledo,Castilla-La Mancha,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,30,hospitales
+450036,Hospital Nacional de Paraplejicos,39876473418389650,-4052925587720253,Toledo,45168,Toledo,Castilla-La Mancha,Hospitales Especializados,Sin concierto,210,hospitales
+450020,Hospital Geriatrico Virgen Del Valle,3984425411879116,-4021257912613801,Toledo,45168,Toledo,Castilla-La Mancha,Hospitales Generales,DC,155,hospitales
+450041,Hospital Provincial Ntra.sra.de La Misericordia,3986105496022189,-40131901641626896,Toledo,45168,Toledo,Castilla-La Mancha,Hospitales Generales,DC,144,hospitales
+440027,Hospital de San Jose,40347281538981944,-11162900088349564,Teruel,44216,Teruel,Aragón,Hospitales De Media Y Larga Estancia,Sin concierto,50,hospitales
+440033,Centro de Rehabilitacion Psicosocial San Juan de Dios,40345717969463570,-11143515208904576,Teruel,44216,Teruel,Aragón,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,150,hospitales
+440012,Hospital Obispo Polanco,4033346916686695,-11072031867572648,Teruel,44216,Teruel,Aragón,Hospitales Generales,Sin concierto,211,hospitales
+440048,Hospital de Alcañiz,4104565902052966,-13023969885372666,Alcañiz,44013,Teruel,Aragón,Hospitales Generales,Sin concierto,145,hospitales
+430252,Hospital Comarcal D'amposta,4070950181515474,5784493899069705,Amposta,43014,Tarragona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),88,hospitales
+430094,Hospital Universitari de Sant Joan de Reus,41145328346350920,11230754619151456,Reus,43123,Tarragona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),313,hospitales
+430022,Hospital Sociosanitari Francoli,4112576930456529,12392819794261424,Tarragona,43148,Tarragona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),156,hospitales
+430017,Hospital Universitari Joan Xxiii de Tarragona,4112471976018919,12385864385695926,Tarragona,43148,Tarragona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),372,hospitales
+430173,Hospital de La Santa Creu,4082792759987426,5095608202678227,Tortosa,43155,Tarragona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),250,hospitales
+430189,Clinica Terres de L'ebre,4081442404487495,5161941848906632,Tortosa,43155,Tarragona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),40,hospitales
+430167,Hospital de Tortosa Verge de La Cinta,4081158515928647,5240319457058812,Tortosa,43155,Tarragona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),248,hospitales
+380048,Hospital Psiquiatrico de Tenerife,28490816405060852,-16269903004782628,Santa Cruz De Tenerife,38038,Sta. Cruz de Tenerife,Canarias,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,DC,94,hospitales
+380012,Hospital Universitario Nuestra Señora de Candelaria,28448640266963556,-1628554899039314,Santa Cruz De Tenerife,38038,Sta. Cruz de Tenerife,Canarias,Hospitales Generales,DC,839,hospitales
+380326,Hospital Universitario de Canarias,28457075208447468,-1629207049731756,San Cristóbal De La Laguna,38023,Sta. Cruz de Tenerife,Canarias,Hospitales Generales,DC,681,hospitales
+380033,Hospital Del Torax,28457896971399728,-1629013699222057,Santa Cruz De Tenerife,38038,Sta. Cruz de Tenerife,Canarias,Hospitales Generales,DC,63,hospitales
+380337,Hospital Del Norte,28385548454628164,-16684554367541344,Icod De Los Vinos,38022,Sta. Cruz de Tenerife,Canarias,Hospitales De Media Y Larga Estancia,DC,51,hospitales
+380316,Hospital General de La Palma,28673396623518684,-1779056914658452,Breña Alta,38008,Sta. Cruz de Tenerife,Canarias,Hospitales Generales,Sin concierto,198,hospitales
+380276,Hospital Insular Nuestra Señora de Los Reyes,27814684528428824,-17915550907185374,Valverde,38048,Sta. Cruz de Tenerife,Canarias,Hospitales Generales,Sin concierto,32,hospitales
+380348,Hospital Del Sur,2806937074012473,-16705218449306712,Arona,38006,Sta. Cruz de Tenerife,Canarias,Hospitales Generales,DC,98,hospitales
+380244,Hospital Nuestra Señora de Guadalupe,28188405694350636,-17140314396826288,San Sebastián De La Gomera,38036,Sta. Cruz de Tenerife,Canarias,Hospitales Generales,Sin concierto,40,hospitales
+420040,Complejo Asistencial de Soria,4177196026465952,-2471446589131595,Soria,42173,Soria,Castilla y León,Hospitales Generales,DC,323,hospitales
+410251,Hospital La Merced,37385836824499510,-5049984225544262,Osuna,41068,Sevilla,Andalucía,Hospitales Generales,Sin concierto,225,hospitales
+410303,Hospital Universitario Virgen de Valme,3731900369486172,-5971252428780723,Sevilla,41091,Sevilla,Andalucía,Hospitales Generales,DC,504,hospitales
+410476,Hospital de La Mujer,3736359936625909,-5977965280797272,Sevilla,41091,Sevilla,Andalucía,Hospitales Especializados,DC,221,hospitales
+410465,Hospital Infantil,3736083485600298,-5981249268548902,Sevilla,41091,Sevilla,Andalucía,Hospitales Especializados,DC,136,hospitales
+410286,Hospital Universitario Virgen Del Rocio,3736245255308134,-5980357108734125,Sevilla,41091,Sevilla,Andalucía,Hospitales Generales,DC,655,hospitales
+410055,Hospital San Lazaro,374148130597663,-5982801040788661,Sevilla,41091,Sevilla,Andalucía,Hospitales Generales,DC,66,hospitales
+410093,Hospital Duques Del Infantado,3736382827741473,-5987840707977214,Sevilla,41091,Sevilla,Andalucía,Hospitales Generales,DC,43,hospitales
+410299,Hospital Universitario Virgen Macarena,37407193390940976,-5986515574366115,Sevilla,41091,Sevilla,Andalucía,Hospitales Generales,DC,777,hospitales
+410454,Hospital de Alta Resolución de Lebrija,3691096250929396,-6072622637323693,Lebrija,41053,Sevilla,Andalucía,Hospitales Generales,Sin concierto,22,hospitales
+410353,Hospital San Juan de Dios Del Aljarafe,37373663707605784,-6084704900030496,Bormujos,41017,Sevilla,Andalucía,Hospitales Generales,Sin concierto,200,hospitales
+410227,Hospital El Tomillar,3729877220322607,-5900592231518118,Alcalá De Guadaíra,41004,Sevilla,Andalucía,Hospitales Generales,DC,80,hospitales
+410419,Hospital de Alta Resolucion de Ecija,37533046628831440,-5092299126637166,Écija,41039,Sevilla,Andalucía,Hospitales Generales,Sin concierto,36,hospitales
+410248,Hospital de Alta Resolucion de Moron de La Frontera,37117902762066370,-5454036545981947,Morón De La Frontera,41065,Sevilla,Andalucía,Hospitales Generales,Sin concierto,12,hospitales
+410346,Hospital Psiquiatrico Penitenciario,37570016995346856,-5833801503480218,Sevilla,41091,Sevilla,Andalucía,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,184,hospitales
+410205,Hospital de Emergencia Covid 19,3734621226764457,-5971835788777407,Sevilla,41091,Sevilla,Andalucía,Hospitales Especializados,DC,175,hospitales
+410386,Hospital de Alta Resolucion de Utrera,3717674430371305,-5784906580635925,Utrera,41095,Sevilla,Andalucía,Hospitales Generales,Sin concierto,14,hospitales
+400019,Hospital General de Segovia (Complejo Asistencial de Segovia),40943838090705560,-4128174958836111,Segovia,40194,Segovia,Castilla y León,Hospitales Generales,Sin concierto,381,hospitales
+370016,Complejo Asistencial Universitario de Salamanca,4096473641022909,-5673476024865003,Salamanca,37274,Salamanca,Castilla y León,Hospitales Generales,DC,726,hospitales
+370074,Hospital Los Montalvos (Complejo Asistencial Universitario de Salamanca),4092765947373484,-574070434901838,Carrascal De Barregas,37087,Salamanca,Castilla y León,Hospitales Generales,DC,185,hospitales
+360340,Complexo Hospitalario Universitario de Pontevedra,42429105152512240,-8637778762498703,Pontevedra,36038,Pontevedra,Galicia,Hospitales Generales,Sin concierto,603,hospitales
+360368,Complexo Hospitalario Universitario de Vigo,4219003907585807,-8714584559314945,Vigo,36057,Pontevedra,Galicia,Hospitales Generales,Sin concierto,1252,hospitales
+360353,Hospital Publico Do Salnes,4257420204621841,-8727230490683581,Vilagarcía De Arousa,36060,Pontevedra,Galicia,Hospitales Generales,Sin concierto,130,hospitales
+340063,Complejo Asistencial Universitario de Palencia,4200129651520501,-4539441742257816,Palencia,34120,Palencia,Castilla y León,Hospitales Generales,DC,495,hospitales
+320126,Hospital Publico de Valdeorras,424177997043617,-6991166206781056,"Barco De Valdeorras, O",32009,Ourense,Galicia,Hospitales Generales,Sin concierto,100,hospitales
+320013,Complexo Hospitalario Universitario de Ourense,42327133897085010,-7860511226343834,Ourense,32054,Ourense,Galicia,Hospitales Generales,Sin concierto,881,hospitales
+320150,Hospital Publico de Verin,4195425715543224,-742976563459208,Verín,32085,Ourense,Galicia,Hospitales Generales,Sin concierto,80,hospitales
+310039,Centro San Francisco Javier,4283384135027225,-1624810608908716,Pamplona,31201,Navarra,Navarra,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,84,hospitales
+310150,Hospital Universitario de Navarra,42805398164357536,-16682742286498776,Pamplona,31201,Navarra,Navarra,Hospitales Generales,Sin concierto,1077,hospitales
+310121,Hospital Garcia Orcoyen,42683396869544400,-20392425809939328,Estella-Lizarra,31097,Navarra,Navarra,Hospitales Generales,Red de utilización pública (RUP),106,hospitales
+300222,Hospital General Universitario Los Arcos Del Mar Menor,3781917493562586,-859659629722364,San Javier,30035,Murcia,Murcia,Hospitales Generales,Sin concierto,255,hospitales
+300145,Hospital Santa Maria Del Rosell,3760814080041689,-9765997655391644,Cartagena,30016,Murcia,Murcia,Hospitales Generales,DC,41,hospitales
+300243,Hospital Virgen Del Castillo,3861648274644791,-11078635633219456,Yecla,30043,Murcia,Murcia,Hospitales Generales,Sin concierto,96,hospitales
+300026,Hospital General Universitario Reina Sofia,379833154012513,-1121683158844717,Murcia,30030,Murcia,Murcia,Hospitales Generales,Sin concierto,339,hospitales
+300269,Hospital G. Universitario J.m. Morales Meseguer,3799456112786762,-11292618024957664,Murcia,30030,Murcia,Murcia,Hospitales Generales,Sin concierto,394,hospitales
+300032,Hospital Psiquiatrico Roman Alberca,3794406677217921,-11673161133531142,Murcia,30030,Murcia,Murcia,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,96,hospitales
+300124,Hospital Comarcal Del Noroeste,3810447963685015,-18675070222717544,Caravaca De La Cruz,30015,Murcia,Murcia,Hospitales Generales,Sin concierto,103,hospitales
+300351,Hospital General Universitario Santa Lucia,3760190033407428,-9610748128032108,Cartagena,30016,Murcia,Murcia,Hospitales Generales,DC,603,hospitales
+300281,Hospital de La Vega Lorenzo Guirao,38229622660424350,-14088097293850734,Cieza,30019,Murcia,Murcia,Hospitales Generales,Sin concierto,124,hospitales
+300256,Hospital Rafael Mendez,37645343489541200,-1734740722628756,Lorca,30024,Murcia,Murcia,Hospitales Generales,Sin concierto,287,hospitales
+300011,Hospital Clinico Universitario Virgen de La Arrixaca,3793309533217572,-1162461755431261,Murcia,30030,Murcia,Murcia,Hospitales Generales,Sin concierto,920,hospitales
+520018,Hospital Comarcal de Melilla,35286931810326932,-29474702629616984,Melilla,52001,Melilla,Melilla,Hospitales Generales,Sin concierto,170,hospitales
+290206,Hospital de La Axarquia,3675191033250582,-4089998363484687,Vélez-Málaga,29094,Málaga,Andalucía,Hospitales Generales,Sin concierto,196,hospitales
+290234,Hospital Universitario Regional de Malaga,367237911690085,-4449782964948942,Málaga,29067,Málaga,Andalucía,Hospitales Generales,DC,523,hospitales
+290213,Hospital Maritimo de Torremolinos,36637824300892330,-4488206711691495,Torremolinos,29901,Málaga,Andalucía,Hospitales Generales,DC,89,hospitales
+290287,Hospital Costa Del Sol,36508374834603640,-4827846077296982,Marbella,29069,Málaga,Andalucía,Hospitales Generales,Sin concierto,408,hospitales
+290154,Hospital de Antequera,3703173910727669,-4528202830772888,Antequera,29015,Málaga,Andalucía,Hospitales Generales,Sin concierto,159,hospitales
+290038,Hospital Civil,3672765865350784,-4431406223687958,Málaga,29067,Málaga,Andalucía,Hospitales Generales,DC,201,hospitales
+290517,Hospital Valle de Guadalhorce de Cartama,3672276361349334,-4670537048744349,Málaga,29067,Málaga,Andalucía,Hospitales Generales,DC,28,hospitales
+290252,Hospital Universitario Virgen de La Victoria,3671904334765732,-4478191941963221,Málaga,29067,Málaga,Andalucía,Hospitales Generales,DC,657,hospitales
+290265,Hospital Materno Infantil Del H.u.r. de Málaga,36730195589967e3,-4432536018842744,Málaga,29067,Málaga,Andalucía,Hospitales Especializados,DC,349,hospitales
+290506,Hospital de La Serrania,3672298154962762,-51463271093092136,Ronda,29084,Málaga,Andalucía,Hospitales Generales,Sin concierto,150,hospitales
+280745,Hospital Universitario Principe de Asturias,4051026391698508,-3348474491596173,Alcalá De Henares,28005,Madrid,Madrid,Hospitales Generales,Sin concierto,507,hospitales
+281337,Hospital Universitario de Torrejon,40465363201929136,-3435250118785683,Torrejón De Ardoz,28148,Madrid,Madrid,Hospitales Generales,Sin concierto,250,hospitales
+281281,Hospital Universitario Del Sureste - Empresa Publica Hospital Del Sureste,40297029173414610,-3457057888335406,Arganda Del Rey,28014,Madrid,Madrid,Hospitales Generales,Sin concierto,132,hospitales
+281269,Empresa Publica Hospital Del Henares,4041879212206592,-3532685069045119,Coslada,28049,Madrid,Madrid,Hospitales Generales,Sin concierto,249,hospitales
+281292,Hospital Del Tajo S.a.,4005741371588189,-36109010341623950,Aranjuez,28013,Madrid,Madrid,Hospitales Generales,Sin concierto,98,hospitales
+281445,Servicio Madrileño de Salud [Enfermera Isabel Zendal],4048578229041128,-3606424686410065,Madrid,28079,Madrid,Madrid,Otros Centros Con Internamiento,Sin concierto,652,hospitales
+281258,Hospital Universitario Infanta Sofía,40558935249154840,-3610880944611973,San Sebastián De Los Reyes,28134,Madrid,Madrid,Hospitales Generales,Sin concierto,276,hospitales
+281405,Hospital Universitario Infanta Leonor,4038687699936761,-3617893779985348,Madrid,28079,Madrid,Madrid,Hospitales Generales,DC,269,hospitales
+280091,Hospital Virgen de La Torre,40381620166990520,-3618967390118112,Madrid,28079,Madrid,Madrid,Hospitales De Media Y Larga Estancia,DC,92,hospitales
+280035,Hospital Universitario 12 de Octubre,4037646158291744,-3699018170511195,Madrid,28079,Madrid,Madrid,Hospitales Generales,Sin concierto,1196,hospitales
+280225,Hospital General Universitario Gregorio Marañon,4042101115545863,-36708613739358416,Madrid,28079,Madrid,Madrid,Hospitales Generales,DC,1143,hospitales
+280112,Hospital Universitario Santa Cristina,40422715252587400,-3670952296155677,Madrid,28079,Madrid,Madrid,Hospitales Generales,Sin concierto,156,hospitales
+280259,Instituto Provincial de Rehabilitacion,4043320488774724,-36726418022045056,Madrid,28079,Madrid,Madrid,Hospitales Especializados,DC,96,hospitales
+280127,Hospital Universitario de La Princesa,404339871192826,-36757323144839920,Madrid,28079,Madrid,Madrid,Hospitales Generales,Sin concierto,524,hospitales
+280133,Hospital Infantil Universitario Niño Jesus,4041436677161843,-3676578407785402,Madrid,28079,Madrid,Madrid,Hospitales Especializados,Sin concierto,170,hospitales
+281304,Hospital Infanta Cristina,4021849049379435,-37828499116415176,Madrid,28079,Madrid,Madrid,Hospitales Generales,Sin concierto,188,hospitales
+281168,Hospital Universitario La Paz,4048115505299378,-36873870877890776,Madrid,28079,Madrid,Madrid,Hospitales Generales,DC,1044,hospitales
+281236,Hospital Universitario Infanta Elena,4019835725866478,-36974064020952350,Valdemoro,28161,Madrid,Madrid,Hospitales Generales,Sin concierto,182,hospitales
+280164,Hospital Carlos III,404750582631749,-36958892309239664,Madrid,28079,Madrid,Madrid,Otros Centros Con Internamiento,DC,95,hospitales
+280148,"Hospital Central de La Cruz Roja, San Jose Y Santa Adela",4044724773485157,-37098286901333320,Madrid,28079,Madrid,Madrid,Otros Centros Con Internamiento,Sin concierto,156,hospitales
+281427,Instituto Psiquiatrico Servicios de Salud Mental Jose Germain,4032718313495276,-37675264518885744,Leganés,28074,Madrid,Madrid,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,DC,181,hospitales
+280838,Hospital Universitario Severo Ochoa,403203231394437,-37694159309279410,Leganés,28074,Madrid,Madrid,Hospitales Generales,Sin concierto,386,hospitales
+281146,Hospital Universitario de Fuenlabrada,4028721184739977,-38158551584440550,Fuenlabrada,28058,Madrid,Madrid,Hospitales Generales,Sin concierto,406,hospitales
+281071,Hospital Universitario Fundacion Alcorcon,4034882135590341,-38373631732555090,Alcorcón,28007,Madrid,Madrid,Hospitales Generales,Sin concierto,402,hospitales
+281348,Hospital Universitario Rey Juan Carlos,40339188579276664,-3870593273255759,Móstoles,28092,Madrid,Madrid,Hospitales Generales,Sin concierto,382,hospitales
+281315,Hospital Universitario Puerta de Hierro Majadahonda,40450232672228080,-3874215802088754,Majadahonda,28080,Madrid,Madrid,Hospitales Generales,Sin concierto,613,hospitales
+281359,Hospital General de Villalba,4065485369747207,-4000770630919332,Collado Villalba,28047,Madrid,Madrid,Hospitales Generales,Sin concierto,217,hospitales
+280761,Hospital de La Fuenfria,4076071197181578,-4074016498979927,Cercedilla,28038,Madrid,Madrid,Hospitales De Media Y Larga Estancia,Sin concierto,192,hospitales
+280800,Hospital de Guadarrama,4066956362970364,-4086399517426474,Guadarrama,28068,Madrid,Madrid,Hospitales De Media Y Larga Estancia,Sin concierto,144,hospitales
+280989,Hospital Universitario de Getafe,4031258538438653,-37423443597639984,Getafe,28065,Madrid,Madrid,Hospitales Generales,Sin concierto,543,hospitales
+280029,Hospital Universitario Ramon Y Cajal,4048737638024313,-36945699597595010,Madrid,28079,Madrid,Madrid,Hospitales Generales,Sin concierto,857,hospitales
+280262,Hospital Psiquiatrico Doctor Rodriguez Lafora,4053203597050922,-36916596597583610,Madrid,28079,Madrid,Madrid,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,334,hospitales
+280072,Hospital Universitario Clinico San Carlos,4044080407566535,-37200542732531560,Madrid,28079,Madrid,Madrid,Hospitales Generales,Sin concierto,861,hospitales
+280210,Hospital de Cantoblanco,40539209839759590,-3694341717429883,Madrid,28079,Madrid,Madrid,Hospitales Generales,DC,131,hospitales
+280894,Hospital Universitario de Mostoles,4031591066858788,-38776534952954576,Móstoles,28092,Madrid,Madrid,Hospitales Generales,Sin concierto,328,hospitales
+280920,Hospital El Escorial,40607566534071224,-4119273030920561,San Lorenzo De El Escorial,28131,Madrid,Madrid,Hospitales Generales,Sin concierto,91,hospitales
+280936,Hospital Virgen de La Poveda,4024762675705572,-4276358059765673,Villa Del Prado,28171,Madrid,Madrid,Hospitales De Media Y Larga Estancia,Sin concierto,202,hospitales
+270018,Complexo Hospitalario Universitario de Lugo,430203851146272,-75348754265010460,Lugo,27028,Lugo,Galicia,Hospitales Generales,Sin concierto,817,hospitales
+270095,Hospital Publico Da Mariña,4365206356741085,-7359922202003151,Burela,27902,Lugo,Galicia,Hospitales Generales,Sin concierto,156,hospitales
+270109,Hospital Publico de Monforte,42527484652486856,-7519684027167925,Monforte De Lemos,27031,Lugo,Galicia,Hospitales Generales,Sin concierto,142,hospitales
+250024,Hospital Santa Maria,41624094439133270,6182492114343354,Lleida,25120,Lleida,Cataluña,Hospitales Generales,Red de utilización pública (RUP),229,hospitales
+250019,Hospital Universitari Arnau de Vilanova de Lleida.,4162646564331112,6127180829813426,Lleida,25120,Lleida,Cataluña,Hospitales Generales,Red de utilización pública (RUP),463,hospitales
+250138,"Centre Sanitari Del Solsones, Fpc",4199329739981042,1516489981995748,Solsona,25207,Lleida,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),32,hospitales
+250143,Hospital Comarcal Del Pallars,4216443342676425,897317480674962,Tremp,25234,Lleida,Cataluña,Hospitales Generales,Red de utilización pública (RUP),63,hospitales
+240191,Complejo Asistencial Universitario de León,4261881729383817,-5572387515523911,León,24089,León,Castilla y León,Hospitales De Media Y Larga Estancia,DC,1036,hospitales
+240135,Hospital El Bierzo,4257224198104088,-6643462430868575,Ponferrada,24115,León,Castilla y León,Hospitales Generales,Sin concierto,413,hospitales
+240220,Hospital Valle de Laciana,4294321534423942,-6331650453097422,Villablino,24202,León,Castilla y León,Hospitales De Media Y Larga Estancia,Sin concierto,15,hospitales
+350249,Hospital Insular de Lanzarote,28963512996202628,-13543474977725076,Arrecife,35004,Las Palmas,Canarias,Hospitales De Media Y Larga Estancia,Sin concierto,80,hospitales
+350069,Hospital Universitario de Salud Mental Juan Carlos I,28103427657288824,-1542299779798076,"Palmas De Gran Canaria, Las",35016,Las Palmas,Canarias,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,DC,119,hospitales
+350271,Hospital San Roque de Guia,2813463291247012,-15627511556510612,Santa María De Guía De Gran Canaria,35023,Las Palmas,Canarias,Hospitales De Media Y Larga Estancia,DC,54,hospitales
+350228,Hospital Doctor Jose Molina Orosa,2897378615920026,-13565917209151516,Arrecife,35004,Las Palmas,Canarias,Hospitales Generales,Sin concierto,252,hospitales
+350332,Hospital Universitario de Gran Canaria Dr. Negrin,2812056033207045,-15444528675371800,"Palmas De Gran Canaria, Las",35016,Las Palmas,Canarias,Hospitales Generales,DC,652,hospitales
+350290,Complejo Hospitalario Universitario Insular Materno Infantil,28081231164381796,-15417314513559616,"Palmas De Gran Canaria, Las",35016,Las Palmas,Canarias,Hospitales Generales,Sin concierto,916,hospitales
+350252,Hospital General de Fuerteventura,28490089703100960,-13869992815842608,Puerto Del Rosario,35017,Las Palmas,Canarias,Hospitales Generales,Sin concierto,131,hospitales
+260027,Hospital San Pedro,42451207346489800,-2425876376902024,Logroño,26089,La Rioja,La Rioja,Hospitales Generales,DC,522,hospitales
+260110,Centro Asistencial Albelda de Iregua,423582261793042,-24732958951622828,Albelda De Iregua,26005,La Rioja,La Rioja,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,140,hospitales
+260132,Centro Sociosanitario de Convalecencia Nuestra Señora Virgen Del Carmen,42314631489545800,-19803588610974656,Calahorra,26036,La Rioja,La Rioja,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),75,hospitales
+260099,Fundacion Hospital Calahorra,4231307824655784,-19796030173831256,Calahorra,26036,La Rioja,La Rioja,Hospitales Generales,Concierto sustitutorio,80,hospitales
+260012,Hospital de La Rioja,4246851948550112,-2442181838336003,Logroño,26089,La Rioja,La Rioja,Hospitales Generales,DC,68,hospitales
+230079,Hospital  San Agustin,3808848172383574,-3643062575162934,Linares,23055,Jaén,Andalucía,Hospitales Generales,Sin concierto,204,hospitales
+230047,Hospital Neurotraumatologico Del H.u. de Jaen,37795752279660210,-37786422751700050,Jaén,23050,Jaén,Andalucía,Hospitales Generales,DC,186,hospitales
+230195,Hospital Puerta de Andalucia,3779543209153872,-37773871886624730,Jaén,23050,Jaén,Andalucía,Hospitales Generales,DC,79,hospitales
+230145,Hospital Alto Guadalquivir,3803993287928311,-4030523573313163,Andújar,23005,Jaén,Andalucía,Hospitales Generales,Sin concierto,67,hospitales
+230173,Hospital de Alta Resolucion de Alcaudete,3758690157578585,-4081128641680629,Alcaudete,23003,Jaén,Andalucía,Hospitales Generales,Sin concierto,16,hospitales
+230184,Hospital de Alta Resolucion de Alcala La Real,3745391556793536,-3931532259566841,Alcalá La Real,23002,Jaén,Andalucía,Hospitales Generales,Sin concierto,28,hospitales
+230206,Centro Hospitalario de Alta Resolucion de Cazorla,3791540326999698,-30143638263187964,Cazorla,23028,Jaén,Andalucía,Hospitales Generales,Sin concierto,26,hospitales
+230026,Hospital Doctor  Sagaz,37770578245421944,-38179736886630630,Jaén,23050,Jaén,Andalucía,Hospitales Generales,DC,54,hospitales
+230151,Hospital Materno-Infantil Del H.u. de Jaen,3777589262137083,-3793658717498785,Jaén,23050,Jaén,Andalucía,Hospitales Especializados,DC,122,hospitales
+230119,Hospital Universitario de Jaen,37775994933919656,-37929183200126256,Jaén,23050,Jaén,Andalucía,Hospitales Generales,DC,805,hospitales
+230162,Hospital de Alta Resolucion Sierra de Segura,3836074816835873,-27871719598128892,Puente De Génave,23071,Jaén,Andalucía,Hospitales Generales,Sin concierto,24,hospitales
+230098,Hospital San Juan de La Cruz,3801926984071247,-33852337309853688,Úbeda,23092,Jaén,Andalucía,Hospitales Generales,Sin concierto,225,hospitales
+220036,Hospital Sagrado Corazon de Jesus,4214231502388158,-4011969020443183,Huesca,22125,Huesca,Aragón,Hospitales De Media Y Larga Estancia,Sin concierto,70,hospitales
+220015,Hospital Universitario San Jorge,4213133957910438,-42083247320874736,Huesca,22125,Huesca,Aragón,Hospitales Generales,Sin concierto,297,hospitales
+220105,Centro Sanitario Bajo Cinca-Baix Cinca,4152413265328849,34095275693323684,Fraga,22112,Huesca,Aragón,Otros Centros Con Internamiento,Sin concierto,20,hospitales
+220054,Hospital de Barbastro,42033313685826416,11161719795277996,Barbastro,22048,Huesca,Aragón,Hospitales Generales,Sin concierto,170,hospitales
+220020,Centro de Rehabilitacion Psicosocial Santo Cristo de Los Milagros,4215117788732292,-4141601480742644,Huesca,22125,Huesca,Aragón,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,110,hospitales
+220089,Hospital de Jaca Salud,4258247717875982,-5371049665681487,Jaca,22130,Huesca,Aragón,Hospitales Generales,Sin concierto,50,hospitales
+210097,Hospital de Riotinto,37693282548626960,-6597677073751083,Minas De Riotinto,21049,Huelva,Andalucía,Hospitales Generales,Sin concierto,118,hospitales
+210101,Hospital Universitario Juan Ramon Jimenez,3727991494307404,-69269013752615920,Huelva,21041,Huelva,Andalucía,Hospitales Generales,DC,587,hospitales
+210025,Hospital Infanta Elena,37280533729273250,-6913015027391412,Huelva,21041,Huelva,Andalucía,Hospitales Generales,Sin concierto,304,hospitales
+210031,Hospital Vazquez  Diaz,3727972569461783,-6921029344476345,Huelva,21041,Huelva,Andalucía,Hospitales Generales,DC,91,hospitales
+190077,Instituto de Enfermedades Neurologicas de Castilla-La Mancha,4064134049383467,-31726474978326364,Guadalajara,19130,Guadalajara,Castilla-La Mancha,Hospitales De Media Y Larga Estancia,Sin concierto,147,hospitales
+190019,Hospital Universitario de Guadalajara,40619601366763870,-31522366175097572,Guadalajara,19130,Guadalajara,Castilla-La Mancha,Hospitales Generales,Sin concierto,432,hospitales
+180122,Hospital de Alta Resolucion de  Guadix,37309776146642560,-3145286946425602,Guadix,18089,Granada,Andalucía,Hospitales Generales,Sin concierto,50,hospitales
+180107,Hospital Santa Ana,3675474655761499,-35201459646656440,Motril,18140,Granada,Andalucía,Hospitales Generales,Sin concierto,184,hospitales
+180150,Hospital Universitario Clinico San Cecilio,3714643576743668,-36052838040229776,Granada,18087,Granada,Andalucía,Hospitales Generales,Sin concierto,543,hospitales
+180114,Hospital Universitario Virgen de Las Nieves,37188662121245250,-3609821544581515,Granada,18087,Granada,Andalucía,Hospitales Generales,DC,698,hospitales
+180133,Hospital de Alta Resolución de Loja,3717110358883524,-4154878032934655,Loja,18122,Granada,Andalucía,Hospitales Generales,Sin concierto,22,hospitales
+180093,Hospital de Baza,37500904079814240,-27522950445742628,Baza,18023,Granada,Andalucía,Hospitales Generales,Sin concierto,117,hospitales
+180042,Hospital  de Neurotraumatologia Y Rehabilitacion Del H.u. Virgen de Las Nieves,3719316893326213,-3607499213899266,Granada,18087,Granada,Andalucía,Hospitales Especializados,DC,241,hospitales
+170237,Hospital Comarcal de Blanes,4168748485196295,2801934840188208,Blanes,17023,Girona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),121,hospitales
+170101,Hospital de Sant Jaume,4167589699488125,27868354435630012,Blanes,17023,Girona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),23,hospitales
+170299,Institut Catala D'oncologia Girona - Hospital Josep Trueta,419978649643148,28201010214637456,Girona,17079,Girona,Cataluña,Hospitales Especializados,Red de utilización pública (RUP),26,hospitales
+170221,Residencia de Gent Gran Puig D'en Roca,419951538112621,2813039774184199,Girona,17079,Girona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),55,hospitales
+170010,Hospital Universitari de Girona Dr. Josep Trueta,4199789890280845,28199525565077528,Girona,17079,Girona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),431,hospitales
+170160,Hospital Sociosanitari de Lloret de Mar,417024819790798,28501739754062440,Lloret De Mar,17095,Girona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),63,hospitales
+170334,Hospital de Cerdanya / Hopital de Cerdagne,42444077047986330,19302778402080840,Puigcerdà,17141,Girona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),66,hospitales
+170301,Hospital Santa Caterina-Ias,41969882197304560,27970104222925624,Salt,17155,Girona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),178,hospitales
+170323,Centre Sociosanitari Parc Hospitalari Marti I Julia,41971171684371336,27964335119262508,Salt,17155,Girona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),120,hospitales
+170216,Hospital Psiquiatric,4197042664077418,27962283695968544,Salt,17155,Girona,Cataluña,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Red de utilización pública (RUP),593,hospitales
+200185,Organizacion Sanitaria Integrada Debagoiena,4306316442124435,-24832731273616044,Arrasate/Mondragón,20055,Gipuzkoa,País Vasco,Hospitales Generales,Sin concierto,95,hospitales
+200261,Hospital Universitario Donostia,4329211965164409,-19704999020987040,Donostia/San Sebastián,20069,Gipuzkoa,País Vasco,Hospitales Generales,Sin concierto,1034,hospitales
+200270,Eibar Ospitalea,4318221954965686,-2482539759597594,Eibar,20030,Gipuzkoa,País Vasco,Hospitales De Media Y Larga Estancia,Sin concierto,40,hospitales
+200163,Hospital Bidasoa (Osi Bidasoa),4334250281153697,-1815076990450064,Hondarribia,20036,Gipuzkoa,País Vasco,Hospitales Generales,Sin concierto,96,hospitales
+200258,Hospital de Mendaro (Osi Bajo Deba),4325054031644711,-23855301113343280,Mendaro,20901,Gipuzkoa,País Vasco,Hospitales Generales,Sin concierto,111,hospitales
+200245,Hospital de Zumarraga (Osi Goierri - Alto Urola),43083676751045296,-2313203437046193,Zumarraga,20080,Gipuzkoa,País Vasco,Hospitales Generales,Sin concierto,118,hospitales
+160014,Hospital Virgen de La Luz,40076088585064210,-21479488788878076,Cuenca,16078,Cuenca,Castilla-La Mancha,Hospitales Generales,Sin concierto,388,hospitales
+140116,Hospital Infanta  Margarita,3746846437194571,-442492735806922,Cabra,14013,Córdoba,Andalucía,Hospitales Generales,Sin concierto,232,hospitales
+140044,Hospital Materno - Infantil Del H.u. Reina Sofia,3786753946823709,-4797810331071442,Córdoba,14021,Córdoba,Andalucía,Hospitales Generales,DC,194,hospitales
+140060,Hospital Provincial,37868840479746480,-47918071445656,Córdoba,14021,Córdoba,Andalucía,Hospitales Generales,DC,389,hospitales
+140023,Hospital Universitario Reina Sofia,37867793558381960,-4797842517577255,Córdoba,14021,Córdoba,Andalucía,Hospitales Generales,DC,607,hospitales
+140039,Hospital Los Morales,379339105417868,-4805107744564078,Córdoba,14021,Córdoba,Andalucía,Hospitales Generales,DC,19,hospitales
+140195,Hospital de Montilla,37564913992864256,-4648729517584393,Montilla,14042,Córdoba,Andalucía,Hospitales Generales,Sin concierto,92,hospitales
+140229,Hospital de Alta Resolucion Valle Del Guadiato,3830854085465976,-5270406502225656,Peñarroya-Pueblonuevo,14052,Córdoba,Andalucía,Hospitales Generales,Sin concierto,17,hospitales
+140121,Hospital  Valle de Los Pedroches,38383111579657150,-4848564044553353,Pozoblanco,14054,Córdoba,Andalucía,Hospitales Generales,Sin concierto,135,hospitales
+140218,Hospital de Alta Resolucion  de Puente Genil,3739917108688789,-4751230902247188,Puente Genil,14056,Córdoba,Andalucía,Hospitales Generales,Sin concierto,24,hospitales
+130052,Hospital General La Mancha Centro,39396578661781730,-3218872794245752,Alcázar De San Juan,13005,Ciudad Real,Castilla-La Mancha,Hospitales Generales,Sin concierto,362,hospitales
+130127,Hospital General de Ciudad Real,3897065776222143,-39309580617271160,Ciudad Real,13034,Ciudad Real,Castilla-La Mancha,Hospitales Generales,Sin concierto,564,hospitales
+130034,Servicios Sanitarios Y Asistenciales,38989124866849144,-3933070709423595,Ciudad Real,13034,Ciudad Real,Castilla-La Mancha,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,85,hospitales
+130065,Hospital Virgen de Altagracia,3899893156557138,-33625029733737296,Manzanares,13053,Ciudad Real,Castilla-La Mancha,Hospitales Generales,Sin concierto,118,hospitales
+130071,Hospital Santa Barbara,3870602985886557,-4110917475227739,Puertollano,13071,Ciudad Real,Castilla-La Mancha,Hospitales Generales,Sin concierto,141,hospitales
+130128,Hospital General de Tomelloso,39175218413903270,-3006860531039979,Tomelloso,13082,Ciudad Real,Castilla-La Mancha,Hospitales Generales,Sin concierto,155,hospitales
+130087,Hospital General de Valdepeñas,3877094001479684,-33929725040614292,Valdepeñas,13087,Ciudad Real,Castilla-La Mancha,Hospitales Generales,Sin concierto,103,hospitales
+510039,Hospital Universitario de Ceuta,3588035756607437,-534176944645827,Ceuta,51001,Ceuta,Ceuta,Hospitales Generales,Sin concierto,252,hospitales
+120017,Hospital General Universitario de Castellon,4000230846093247,-4161653101950065,Castelló De La Plana,12040,Castellón,Comunidad Valenciana,Hospitales Generales,Sin concierto,521,hospitales
+120043,Consorcio Hospitalario Provincial de Castellon,3998426287613909,-4608931752576453,Castelló De La Plana,12040,Castellón,Comunidad Valenciana,Hospitales Generales,Sin concierto,257,hospitales
+120038,Hospital La Magdalena,40004421378917120,-7296457519577905,Castelló De La Plana,12040,Castellón,Comunidad Valenciana,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),128,hospitales
+120115,Hospital Comarcal de Vinaros,4046397641922563,4500482346161389,Vinaròs,12138,Castellón,Comunidad Valenciana,Hospitales Generales,Sin concierto,174,hospitales
+120136,Hospital Universitario de La Plana,3992471334145264,-9716313223176984,Vila-Real,12135,Castellón,Comunidad Valenciana,Hospitales Generales,Sin concierto,258,hospitales
+390134,Hospital Comarcal de Laredo,4341424586607014,-34416401886012160,Laredo,39035,Cantabria,Cantabria,Hospitales Generales,Sin concierto,131,hospitales
+390015,Hospital Universitario Marques de Valdecilla,43456084667213330,-38291995732590264,Santander,39075,Cantabria,Cantabria,Hospitales Generales,Sin concierto,923,hospitales
+390149,Hospital Sierrallana,43361791915273810,-4076400117908879,Torrelavega,39087,Cantabria,Cantabria,Hospitales Generales,Sin concierto,301,hospitales
+110259,Hospital Punta de Europa,3611082781250486,-544422817344146,Algeciras,11004,Cádiz,Andalucía,Hospitales Generales,Sin concierto,270,hospitales
+110012,Hospital Universitario Puerta Del Mar,3650905186296869,-6277950675325797,Cádiz,11012,Cádiz,Andalucía,Hospitales Generales,DC,674,hospitales
+110110,Hospital Universitario de Jerez de La Frontera,3669927528740735,-6148861648712269,Jerez De La Frontera,11020,Cádiz,Andalucía,Hospitales Generales,Sin concierto,476,hospitales
+110316,Hospital de La Linea de La Concepcion,3617583846385489,-5352705585360657,"Línea De La Concepción, La",11022,Cádiz,Andalucía,Hospitales Generales,Sin concierto,243,hospitales
+110184,Hospital Universitario de Puerto Real,3652061591586541,-6151442657116468,Puerto Real,11028,Cádiz,Andalucía,Hospitales Generales,Sin concierto,319,hospitales
+110305,Hospital San  Carlos de San Fernando,3647998630754426,-6195094150354799,San Fernando,11031,Cádiz,Andalucía,Hospitales Generales,DC,66,hospitales
+110213,Hospital de Alta Resolucion de Especialidades de La Janda,3625242249831088,-5981477094532885,Vejer De La Frontera,11039,Cádiz,Andalucía,Hospitales Generales,Sin concierto,24,hospitales
+100089,Hospital Universitario de Caceres,39476674248512890,-6329665870518557,Cáceres,10037,Cáceres,Extremadura,Hospitales Generales,DC,269,hospitales
+100015,Hospital San Pedro de Alcantara,39465248788133570,-6367797883314898,Cáceres,10037,Cáceres,Extremadura,Hospitales Generales,DC,419,hospitales
+100041,Hospital Ciudad de Coria,3999110519636134,-6542119804627243,Coria,10067,Cáceres,Extremadura,Hospitales Generales,Sin concierto,108,hospitales
+100054,Hospital Campo Arañuelo,3988855559555775,-5561131207601831,Navalmoral De La Mata,10131,Cáceres,Extremadura,Hospitales Generales,Sin concierto,99,hospitales
+100073,Centro Sociosanitario de Plasencia,40006174474359800,-611320688561201,Plasencia,10148,Cáceres,Extremadura,Hospitales De Media Y Larga Estancia,Sin concierto,350,hospitales
+100067,Hospital Virgen Del Puerto,40049372984591144,-6086099848129996,Plasencia,10148,Cáceres,Extremadura,Hospitales Generales,Sin concierto,275,hospitales
+090133,Hospital Universitario de Burgos (Complejo Asistencial Univer. de Burgos),4236208126132704,-3684965101990025,Burgos,09059,Burgos,Castilla y León,Hospitales Generales,DC,777,hospitales
+090079,Hospital Santos Reyes,4166962525230938,-36915677903445650,Aranda De Duero,09018,Burgos,Castilla y León,Hospitales Generales,Sin concierto,127,hospitales
+090026,Hospital Fuente Bermeja (Complejo Asistencial Universitario de Burgos),42347059686260770,-37115209595539650,Burgos,09059,Burgos,Castilla y León,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,DC,80,hospitales
+090098,Hospital Santiago Apostol,4266989541144397,-2988819271182707,Miranda De Ebro,09219,Burgos,Castilla y León,Hospitales Generales,Sin concierto,114,hospitales
+480078,Hospital Universitario Basurto,4326159835861989,-2953037849233282,Bilbao,48020,Bizkaia,País Vasco,Hospitales Generales,Sin concierto,697,hospitales
+480176,Hospital Universitario Cruces,43282623850086024,-2984350205322709,Barakaldo,48013,Bizkaia,País Vasco,Hospitales Generales,Sin concierto,981,hospitales
+480182,Hospital San Eloy,4329692905955044,-29934765997806784,Barakaldo,48013,Bizkaia,País Vasco,Hospitales Generales,Sin concierto,128,hospitales
+480195,Hospital de Bermeo,4342158164043027,-27228739822156368,Bermeo,48017,Bizkaia,País Vasco,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,188,hospitales
+480010,Hospital Santa Marina,43262259904279936,-28824232990695824,Bilbao,48020,Bizkaia,País Vasco,Hospitales De Media Y Larga Estancia,Sin concierto,234,hospitales
+480209,Hospital Galdakao-Usansolo,43223463362500984,-2817917777584963,Galdakao,48036,Bizkaia,País Vasco,Hospitales Generales,Sin concierto,481,hospitales
+480216,Hospital de Gorliz,4341734773568112,-29443191130001948,Gorliz,48043,Bizkaia,País Vasco,Hospitales De Media Y Larga Estancia,Sin concierto,149,hospitales
+480327,Hospital Urduliz Ospitalea,4337556094513971,-29600115556426424,Urduliz,48089,Bizkaia,País Vasco,Hospitales Generales,Sin concierto,128,hospitales
+480300,Hospital de Zaldibar,4317016650530292,-2547697798349127,Zaldibar,48095,Bizkaia,País Vasco,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,120,hospitales
+480300,Hospital de Zamudio,4329038979412534,-28553844957659076,Zamudio,48905,Bizkaia,País Vasco,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,142,hospitales
+081189,Hospital Sant Antoni Abat - Consorci Sanitari Del Garraf.,4122882165946926,17219470565354124,Vilanova I La Geltrú,08307,Barcelona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),111,hospitales
+081038,Hospital Residencia Sant Camil - Consorci Sanitari Del Garraf.,4125394660726479,17653272264581156,Sant Pere De Ribes,08231,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),295,hospitales
+081075,Hospital de Terrassa,41556919293898870,20526300718662968,Terrassa,08279,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),460,hospitales
+081728,Hospital General Penitenciari,41556919293898870,20526300718662968,Terrassa,08279,Barcelona,Cataluña,Hospitales Generales,Sin concierto,32,hospitales
+081829,Centre Forum,41412880160682530,2218365060218614,Barcelona,08019,Barcelona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),223,hospitales
+081694,Institut Catala D'oncologia - Hospital Germans Trias I Pujol,41482006763389384,22380878472888160,Badalona,08015,Barcelona,Cataluña,Hospitales Especializados,Red de utilización pública (RUP),36,hospitales
+080667,Hospital Universitari Germans Trias I Pujol de Badalona,4148119979373632,22375455413431776,Badalona,08015,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),516,hospitales
+080673,Hospital Municipal de Badalona,4145050221603232,2245608362286401,Badalona,08015,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),140,hospitales
+080826,Hospital  de  Sant  Jaume,4200188892560407,22872183667279892,Manlleu,08112,Barcelona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),90,hospitales
+081326,Hospital de Mataro,41556120917141090,24297726377572132,Mataró,08121,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),402,hospitales
+080689,Centre Sociosanitari El Carme,4145912609178147,22313057098801656,Badalona,08015,Barcelona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),210,hospitales
+080109,Hospital Clinic de Barcelona,4138913022057069,215176218817384,Barcelona,08019,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),844,hospitales
+080057,Hospital Del Mar,4138451924741606,21939049790655052,Barcelona,08019,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),470,hospitales
+080060,Hospital de L'esperança,41410731028556610,2154508059501555,Barcelona,08019,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),161,hospitales
+080431,"Hospital Clinic de Barcelona, Seu Plato",4140120046776947,21422919675474468,Barcelona,08019,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),168,hospitales
+081649,Hospital Sociosanitari Pere Virgili,41415662269111710,2141770289940527,Barcelona,08019,Barcelona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),366,hospitales
+080174,Hospital Dos de Maig,4141054841382434,2177154314153434,Barcelona,08019,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),229,hospitales
+080044,"Hospital Clinic de Barcelona, Seu Sabino de Arana",4138575536391383,21242771998177724,Barcelona,08019,Barcelona,Cataluña,Hospitales Especializados,Red de utilización pública (RUP),130,hospitales
+081347,Hospital Universitari Vall D'hebron,41428226141699040,2140896301179319,Barcelona,08019,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),1315,hospitales
+080706,Hospital Comarcal Sant Jaume de Calella,4161507739837132,26572068444418516,Calella,08035,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),233,hospitales
+080771,Hospital General de L'hospitalet,41374342261826950,2106557529737786,"Hospitalet De Llobregat, L'",08101,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),89,hospitales
+081461,Institut Catala D'oncologia - Hospital Duran I Reynals,41345415032363256,21106926398077408,"Hospitalet De Llobregat, L'",08101,Barcelona,Cataluña,Hospitales Especializados,Red de utilización pública (RUP),126,hospitales
+081739,Centre Sociosanitari de L'hospitalet - Consorci Sanitari Integral,41373840794875384,21064070767466348,"Hospitalet De Llobregat, L'",08101,Barcelona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),123,hospitales
+080752,Hospital Universitari de Bellvitge,41344773879197750,2104232762735191,"Hospitalet De Llobregat, L'",08101,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),1022,hospitales
+081885,Hospital D'igualada,41588718062306,1620072688562704,Igualada,08102,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),285,hospitales
+081580,Antic Hospital de Sant Jaume I Santa Magdalena,41539743602277896,2448949632757251,Mataró,08121,Barcelona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),70,hospitales
+080958,Hospital de Sabadell,4155709395873054,2109867115642845,Sabadell,08187,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),861,hospitales
+082066,Hospital de Sant Joan Despi Moises Broggi,41373323496165230,2072516507071896,Sant Joan Despí,08217,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),328,hospitales
+081056,Centres Assistencials Dr. Emili Mira I Lopez (Recinte Torribera).,4146215542930197,2211742671911507,Santa Coloma De Gramenet,08245,Barcelona,Cataluña,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Red de utilización pública (RUP),454,hospitales
+081081,Hospital de Sant Llatzer,41562957064378450,2017404992436478,Terrassa,08279,Barcelona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),77,hospitales
+081108,Hospital  General  de  Vic,4193668368287671,2260318084272853,Vic,08298,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),292,hospitales
+081141,Hospital de Viladecans,4131246850917718,20146531388245696,Viladecans,08301,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),110,hospitales
+081430,Hospital Comarcal de L'alt Penedes.,4135636822951027,17049289709141052,Vilafranca Del Penedès,08305,Barcelona,Cataluña,Hospitales Generales,Red de utilización pública (RUP),144,hospitales
+081795,Centre Sociosanitari Ricard Fortuny,4133962092151602,17044593416219948,Vilafranca Del Penedès,08305,Barcelona,Cataluña,Hospitales De Media Y Larga Estancia,Red de utilización pública (RUP),187,hospitales
+070399,Hospital Universitari Son Espases,3960751834307838,2645910438368975,Palma,07040,Baleares,Baleares,Hospitales Generales,Sin concierto,839,hospitales
+070162,Hospital Joan March,3967899097021279,2689038114682408,Bunyola,07010,Baleares,Baleares,Hospitales De Media Y Larga Estancia,Sin concierto,106,hospitales
+070333,Hospital Son Llatzer,3957377394991209,2703333974947095,Palma,07040,Baleares,Baleares,Hospitales Generales,Sin concierto,423,hospitales
+070388,Hospital Mateu Orfila,3988108645068657,4252053310429101,Maó-Mahón,07032,Baleares,Baleares,Hospitales Generales,Sin concierto,142,hospitales
+070184,Hospital Can Misses,3891597590593432,141885294239624,Eivissa,07026,Baleares,Baleares,Hospitales Generales,Sin concierto,382,hospitales
+070366,Hospital de Formentera,3870758161992566,14350809221434542,Formentera,07024,Baleares,Baleares,Hospitales Generales,Sin concierto,12,hospitales
+070377,Hospital Comarcal D´Inca,397157156991751,29213884487045988,Inca,07027,Baleares,Baleares,Hospitales Generales,Sin concierto,170,hospitales
+070309,Hospital  de Manacor,39578607196980120,3207456693314735,Manacor,07033,Baleares,Baleares,Hospitales Generales,Sin concierto,224,hospitales
+070048,Hospital General de Mallorca,39574176513448760,26467170520526160,Palma,07040,Baleares,Baleares,Hospitales De Media Y Larga Estancia,Sin concierto,87,hospitales
+070051,Hospital Psiquiatric,39583035791489936,26431339645260112,Palma,07040,Baleares,Baleares,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,168,hospitales
+060219,Hospital General de Llerena,3824277396725941,-6013338573364877,Llerena,06074,Badajoz,Extremadura,Hospitales Generales,DC,138,hospitales
+060135,Centro Sociosanitario de Merida,38923160108863410,-630932210118704,Mérida,06083,Badajoz,Extremadura,Hospitales De Media Y Larga Estancia,Sin concierto,296,hospitales
+060188,Hospital de Zafra,38431083362278320,-642183832731037,Zafra,06158,Badajoz,Extremadura,Hospitales Generales,DC,91,hospitales
+060037,Hospital Materno-Infantil,3886590030560954,-69714182033902650,Badajoz,06015,Badajoz,Extremadura,Hospitales Especializados,DC,225,hospitales
+060220,Hospital Perpetuo Socorro,38866897879958720,-69714864446682250,Badajoz,06015,Badajoz,Extremadura,Hospitales Generales,DC,282,hospitales
+060016,Hospital Universitario de Badajoz,3888381063984702,-7000844818724165,Badajoz,06015,Badajoz,Extremadura,Hospitales Generales,DC,529,hospitales
+060242,Hospital Tierra de Barros,38655823675517176,-6377168968575332,Almendralejo,06011,Badajoz,Extremadura,Hospitales Generales,DC,50,hospitales
+060253,Hospital Don Benito-Villanueva de La Serena,3896286550304782,-5827330928840106,Don Benito,06044,Badajoz,Extremadura,Hospitales Generales,DC,292,hospitales
+060264,Hospital de Merida,3891248971366914,-6363635308525922,Mérida,06083,Badajoz,Extremadura,Hospitales Generales,DC,331,hospitales
+060231,Hospital Siberia-Serena,3903139103811861,-5223429055331142,Talarrubias,06127,Badajoz,Extremadura,Hospitales Generales,DC,43,hospitales
+050061,Hospital Provincial de Avila (Complejo Asistencial de Avila),4065020094718546,-4692490196669091,Ávila,05019,Ávila,Castilla y León,Hospitales Generales,DC,119,hospitales
+050013,Hospital Nuestra Señora de Sonsoles (Complejo Asistencial de Avila),4066589561646655,-4666698927754395,Ávila,05019,Ávila,Castilla y León,Hospitales Generales,DC,321,hospitales
+330156,Hospital Universitario de Cabueñes,4352515363280566,-5607080417388247,Gijón,33024,Asturias,Asturias,Hospitales Generales,Sin concierto,457,hospitales
+330241,Hospital Valle Del Nalon,4332799888976122,-5721335764895641,Langreo,33031,Asturias,Asturias,Hospitales Generales,Sin concierto,223,hospitales
+330292,Hospital Universitario Central de Asturias,43375361754318880,-5827229371053014,Oviedo,33044,Asturias,Asturias,Hospitales Generales,Sin concierto,991,hospitales
+330100,Hospital Universitario San Agustin,4355190015216229,-593610776610475,Avilés,33004,Asturias,Asturias,Hospitales Generales,Sin concierto,436,hospitales
+330138,Hospital Carmen Y Severo Ochoa,4316580660776115,-6541676622455971,Cangas Del Narcea,33011,Asturias,Asturias,Hospitales Generales,Sin concierto,103,hospitales
+330143,Hospital de Jarrio,4354453670912467,-67470108924466490,Coaña,33018,Asturias,Asturias,Hospitales Generales,Sin concierto,116,hospitales
+330325,Hospital Vital Alvarez Buylla,4322634693500088,-5781404565077129,Mieres,33037,Asturias,Asturias,Hospitales Generales,Sin concierto,176,hospitales
+330045,Hospital Monte Naranco,4336994065431126,-587284699590848,Oviedo,33044,Asturias,Asturias,Hospitales De Media Y Larga Estancia,Sin concierto,194,hospitales
+330306,Hospital Del Oriente de Asturias Francisco Grande Covian,43381426653702656,-5184629018169727,Parres,33045,Asturias,Asturias,Hospitales Generales,Sin concierto,90,hospitales
+010035,Red de Salud Mental de Araba (Hospital Psiquiatrico de Araba),428359159856807,-26786648398303156,Vitoria-Gasteiz,01059,Araba,País Vasco,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,175,hospitales
+010090,Hospital Universitario Araba (Sede Txagorritxu Y Sede Santiago),4285485306382774,-26902253312152040,Vitoria-Gasteiz,01059,Araba,País Vasco,Hospitales Generales,Sin concierto,806,hospitales
+010088,Hospital de Leza,4257599403171243,-26385307015523388,Laguardia,01031,Araba,País Vasco,Hospitales De Media Y Larga Estancia,Sin concierto,63,hospitales
+040084,Hospital La Inmaculada,37401492760303330,-19417208587517304,Huércal-Overa,04053,Almería,Andalucía,Hospitales Generales,Sin concierto,184,hospitales
+040127,Hospital de Alta Resolucion Eltoyo,3685077173433946,-2312533009345305,Almería,04013,Almería,Andalucía,Hospitales Generales,Sin concierto,44,hospitales
+040138,Hospital Materno Infantil,36862141592969840,-24409642196173e3,Almería,04013,Almería,Andalucía,Hospitales Generales,DC,204,hospitales
+040097,Hospital Universitario Torrecardenas,3686270459042128,-2441183181527891,Almería,04013,Almería,Andalucía,Hospitales Generales,DC,575,hospitales
+040118,Hospital de Poniente,3675329464815091,-2803825474879591,"Ejido, El",04902,Almería,Andalucía,Hospitales Generales,Sin concierto,261,hospitales
+030395,Centro Dr. Esquerdo,3839273007873701,-4387897715910045,Sant Joan D'alacant,03119,Alicante,Comunidad Valenciana,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,NA,56,hospitales
+030015,Hospital General Universitario Dr. Balmis,3836341479162642,-48606290952976530,Alicante/Alacant,03014,Alicante,Comunidad Valenciana,Hospitales Generales,Sin concierto,807,hospitales
+030187,Hospital Sant Vicent Del Raspeig,384033406497287,-5308329742302617,San Vicente Del Raspeig/Sant Vicent Del Raspeig,03122,Alicante,Comunidad Valenciana,Hospitales De Media Y Larga Estancia,Sin concierto,179,hospitales
+030373,Hospital Universitario Vinalopo,38255333593100080,-716052503168188,Elche/Elx,03065,Alicante,Comunidad Valenciana,Hospitales Generales,Sin concierto,214,hospitales
+030165,Hospital General Universitario de Elda-Virgen de La Salud,3849344442309209,-8058705591024141,Elda,03066,Alicante,Comunidad Valenciana,Hospitales Generales,Sin concierto,513,hospitales
+030211,Hospital Vega Baja de Orihuela,38089578062190136,-8535115451903167,Orihuela,03099,Alicante,Comunidad Valenciana,Hospitales Generales,Sin concierto,336,hospitales
+030351,Hospital La Pedrera,3882838454997836,9622655177774518,Dénia,03063,Alicante,Comunidad Valenciana,Hospitales De Media Y Larga Estancia,Sin concierto,107,hospitales
+030067,Hospital Virgen de Los Lirios,3870559458396372,-4651823182351086,Alcoy/Alcoi,03009,Alicante,Comunidad Valenciana,Hospitales Generales,Sin concierto,305,hospitales
+030232,Hospital Psiquiatrico Penitenciario de Fontcalent,3835240443139359,-5632251765745836,Alicante/Alacant,03014,Alicante,Comunidad Valenciana,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,Sin concierto,432,hospitales
+030340,Hospital de Denia,3883409542869372,592443581097699,Dénia,03063,Alicante,Comunidad Valenciana,Hospitales Generales,Sin concierto,266,hospitales
+030152,Hospital General Universitario de Elche,3826005231846689,-6849141336210436,Elche/Elx,03065,Alicante,Comunidad Valenciana,Hospitales Generales,Sin concierto,408,hospitales
+030250,Hospital Universitario San Juan de Alicante,3838914369612365,-435397692426406,Sant Joan D'alacant,03119,Alicante,Comunidad Valenciana,Hospitales Generales,Sin concierto,396,hospitales
+030339,Hospital Universitario de Torrevieja,3796350431065655,-7157506475595699,Torrevieja,03133,Alicante,Comunidad Valenciana,Hospitales Generales,Sin concierto,269,hospitales
+030204,Hospital Marina Baixa de La Vila Joiosa,3853011180121682,-19837532655863056,"Villajoyosa/Vila Joiosa, La",03139,Alicante,Comunidad Valenciana,Hospitales Generales,Sin concierto,270,hospitales
+020096,Hospital de Hellin,3850431282781953,-16887020847025198,Hellín,02037,Albacete,Castilla-La Mancha,Hospitales Generales,Sin concierto,135,hospitales
+020019,Hospital General Universitario de Albacete,3898540887835038,-18463029804138508,Albacete,02003,Albacete,Castilla-La Mancha,Hospitales Generales,DC,507,hospitales
+020158,Centro de Atencion A La Salud Mental La Milagrosa,39010631115392610,-1868001941671904,Albacete,02003,Albacete,Castilla-La Mancha,Hospitales De Salud Mental Y Tratamiento De Toxicomanías,DC,31,hospitales
+020117,Hospital Universitario Nuestra Señora  Del Perpetuo Socorro,3898974314459513,-18716701171534444,Albacete,02003,Albacete,Castilla-La Mancha,Hospitales Generales,DC,165,hospitales
+020136,Hospital General de Almansa,3887942432079475,-10942172994536604,Almansa,02009,Albacete,Castilla-La Mancha,Hospitales Generales,Sin concierto,93,hospitales
+020147,Hospital General de Villarrobledo,3928013010079962,-26021046859662864,Villarrobledo,02081,Albacete,Castilla-La Mancha,Hospitales Generales,Sin concierto,114,hospitales
+150130,Complexo Hospitalario Universitario de Ferrol,43510605656399510,-8216099344394626,Ferrol,15036,A Coruña,Galicia,Hospitales Generales,Sin concierto,467,hospitales
+150341,Hospital Publico Virxe Da Xunqueira,42953670018228736,-9191234022501442,Cee,15023,A Coruña,Galicia,Hospitales Generales,Sin concierto,79,hospitales
+150011,Complexo Hospitalario Universitario A Coruña,43343877681498256,-8388053061369446,"Coruña, A",15030,A Coruña,Galicia,Hospitales Generales,Sin concierto,1345,hospitales
+150336,Hospital Publico Da Barbanza,42593817107552600,-8999401087303239,Ribeira,15073,A Coruña,Galicia,Hospitales Generales,Sin concierto,82,hospitales
+150200,Complexo Hospitalario Universitario de Santiago,42869387364012530,-8565744062856446,Santiago De Compostela,15078,A Coruña,Galicia,Hospitales Generales,Sin concierto,1511,hospitales
